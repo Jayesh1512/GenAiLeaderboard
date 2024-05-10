@@ -1,0 +1,27 @@
+name: Update Leaderboard
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-lb:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.FORCE_PUSH }}
+      - name: Setup node 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: yarn
+      - run: yarn --immutable
+      - run: node scripts/index.js
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update leaderboard"
+          commit_options: '--no-verify --signoff'
