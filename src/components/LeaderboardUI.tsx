@@ -19,7 +19,21 @@ const LeaderboardUI = () => {
 	// Calculate pagination
 	const indexOfLastEntry = currentPage * entriesPerPage;
 	const indexOfFirstEntry = indexOfLastEntry - entriesPerPage;
-	const currentEntries = filteredData.slice(indexOfFirstEntry, indexOfLastEntry);
+
+	const index1 = {
+        "name": "Tanay Pande",
+        "skills": 3,
+        "trackOne": 1,
+        "trackTwo": 1,
+        "trackThree": 1,
+        "color": "green",
+        "latestSkill": 1715299200000,
+        "rank": 1
+    };
+
+    filteredData.splice(0,0,index1);
+    const currentEntries = filteredData.slice(indexOfFirstEntry, indexOfLastEntry);
+
 
 	// Change page
 	const nextPage = () => {
@@ -63,15 +77,6 @@ const LeaderboardUI = () => {
 						</tr>
 					</thead>
 					<tbody>
-						<tr className={`border bg-background`}>
-							<td className={`green  py-2 text-center md:px-4`}>
-								<p>1</p>
-							</td>
-							<td className="px-2 py-2 text-xs font-medium md:px-4 md:text-base">Tanay Pande</td>
-							<td className=" px-6 py-2 text-center">1</td>
-							<td className=" px-6 py-2 text-center">1</td>
-							<td className=" px-6 py-2 text-center">1</td>
-						</tr>
 						{currentEntries.map((participant, index) => (
 							<tr key={index} className={`border bg-background`}>
 								<td className={`${participant.color}  py-2 text-center md:px-4`}>
