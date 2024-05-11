@@ -61,7 +61,7 @@ export const init = () => {
         }
     });
 
-    let rank = 1;
+    let rank = 2;
     for (let i = 0; i < leaderBoard.length; i++) {
 		leaderBoard[i].rank = rank + i;
     }
