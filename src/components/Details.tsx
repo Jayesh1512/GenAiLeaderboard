@@ -13,7 +13,7 @@ export function Details() {
 					<div className="green flex h-8 items-center pl-4 text-primary">
 						Three Tracks{' '}
 						<span className="ml-1 flex w-8 items-center justify-center rounded-md bg-green-300 px-2 text-black">
-							{green}
+							{green+1}
 						</span>
 					</div>
 					<div className="pink flex h-8 items-center pl-4 text-primary">
