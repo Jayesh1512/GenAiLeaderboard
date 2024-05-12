@@ -403,6 +403,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "8986843",
+                    "badgeDate": 1715472000000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8984888",
                     "badgeDate": 1715472000000
@@ -413,9 +418,9 @@
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 0,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -1006,6 +1011,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/aecbfae4-1ce2-4d32-9f7f-5035ca544afe",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "Configure Service Accounts and IAM Roles for Google Cloud",
+                    "badgeID": "8986760",
+                    "badgeDate": 1715472000000
+                },
                 {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "8980342",
@@ -4049,5 +4059,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 12, 2024 at 9:44 PM"
+    "time": "Sunday, May 12, 2024 at 10:40 PM"
 }
