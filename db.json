@@ -687,14 +687,24 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "8987492",
+                    "badgeDate": 1715472000000
+                },
+                {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "8987343",
+                    "badgeDate": 1715472000000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8975556",
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -3966,7 +3976,13 @@
             "name": "sanika raut",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/71150fc1-1d76-4b45-8093-92bc99278441",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "8987546",
+                    "badgeDate": 1715472000000
+                }
+            ],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0,
@@ -3977,6 +3993,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/98cf2c56-0122-4dab-be3e-f35b6a7687e3",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "8987027",
+                    "badgeDate": 1715472000000
+                },
                 {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8975745",
@@ -3993,9 +4014,9 @@
                     "badgeDate": 1715299200000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -4059,5 +4080,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 12, 2024 at 10:40 PM"
+    "time": "Sunday, May 12, 2024 at 11:46 PM"
 }
