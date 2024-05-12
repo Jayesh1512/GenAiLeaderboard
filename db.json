@@ -286,6 +286,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8988687",
+                    "badgeDate": 1715472000000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "8983243",
                     "badgeDate": 1715472000000
@@ -301,8 +306,8 @@
                     "badgeDate": 1715299200000
                 }
             ],
-            "skills": 2,
-            "trackOne": 0,
+            "skills": 3,
+            "trackOne": 1,
             "trackTwo": 1,
             "trackThree": 1
         },
@@ -356,11 +361,22 @@
             "name": "Yash sharma",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/0013a817-ded6-4da5-bb20-67b8e0e268ad",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "8988756",
+                    "badgeDate": 1715472000000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "8988711",
+                    "badgeDate": 1715472000000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Sakshi Soni",
@@ -2196,9 +2212,15 @@
             "name": "Jayesh Shete",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/dee015d8-7dd2-4d45-a5f8-7f99c91ea026",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8988670",
+                    "badgeDate": 1715472000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -4030,13 +4052,18 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8988830",
+                    "badgeDate": 1715472000000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8987546",
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 0,
-            "trackOne": 0,
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -4132,5 +4159,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 13, 2024 at 1:42 AM"
+    "time": "Monday, May 13, 2024 at 2:42 AM"
 }
