@@ -605,6 +605,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "8985284",
+                    "badgeDate": 1715472000000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "8977305",
                     "badgeDate": 1715385600000
@@ -3639,13 +3644,18 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8985430",
+                    "badgeDate": 1715472000000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "8970546",
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 1,
             "trackThree": 0
         },
@@ -4033,5 +4043,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 12, 2024 at 7:42 PM"
+    "time": "Sunday, May 12, 2024 at 8:42 PM"
 }
