@@ -1134,9 +1134,15 @@
             "name": "Vivek Radheshyam Katre",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/7a115c37-68e5-47c3-8d14-2310642e5578",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8985925",
+                    "badgeDate": 1715472000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -4043,5 +4049,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 12, 2024 at 8:42 PM"
+    "time": "Sunday, May 12, 2024 at 9:44 PM"
 }
