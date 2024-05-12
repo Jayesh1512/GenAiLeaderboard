@@ -330,7 +330,23 @@
             "name": "Meharsh Chandure",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/8eadecaa-d10b-475c-a8c7-6d10f2eb431a",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
+            "badges": [
+                {
+                    "badgeName": "Introduction to Responsible AI",
+                    "badgeID": "8987668",
+                    "badgeDate": 1715472000000
+                },
+                {
+                    "badgeName": "Introduction to Large Language Models",
+                    "badgeID": "8987633",
+                    "badgeDate": 1715472000000
+                },
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "8987543",
+                    "badgeDate": 1715472000000
+                }
+            ],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0,
@@ -403,6 +419,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8987963",
+                    "badgeDate": 1715472000000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "8986843",
                     "badgeDate": 1715472000000
@@ -418,8 +439,8 @@
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 2,
-            "trackOne": 0,
+            "skills": 3,
+            "trackOne": 1,
             "trackTwo": 1,
             "trackThree": 1
         },
@@ -610,6 +631,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "8987529",
+                    "badgeDate": 1715472000000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8985284",
                     "badgeDate": 1715472000000
@@ -625,9 +651,9 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -2114,11 +2140,22 @@
             "name": "Prathmesh Agrawal",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/bf6f0268-89fc-4198-874f-5e26dbcacdb1",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "8987884",
+                    "badgeDate": 1715472000000
+                },
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "8987855",
+                    "badgeDate": 1715472000000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Divyani Raut",
@@ -2502,14 +2539,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "8987783",
+                    "badgeDate": 1715472000000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8982522",
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -4080,5 +4122,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 12, 2024 at 11:46 PM"
+    "time": "Monday, May 13, 2024 at 12:42 AM"
 }
