@@ -1091,6 +1091,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 2: Data with BigQuery",
+                    "badgeID": "9001769",
+                    "badgeDate": 1715558400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8997479",
                     "badgeDate": 1715558400000
@@ -2315,6 +2320,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9001985",
+                    "badgeDate": 1715558400000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9001949",
+                    "badgeDate": 1715558400000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9001479",
                     "badgeDate": 1715558400000
@@ -2325,10 +2340,10 @@
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Tanmay Talekar",
@@ -3209,6 +3224,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9001582",
+                    "badgeDate": 1715558400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8976961",
                     "badgeDate": 1715385600000
@@ -3224,9 +3244,9 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -4365,5 +4385,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 14, 2024 at 12:40 AM"
+    "time": "Tuesday, May 14, 2024 at 1:42 AM"
 }
