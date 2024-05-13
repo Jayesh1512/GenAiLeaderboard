@@ -1579,9 +1579,15 @@
             "name": "Khushi Sonkusare",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/91314a04-925c-47b0-a798-5e89e8dd44be",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8999654",
+                    "badgeDate": 1715558400000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -3315,11 +3321,22 @@
             "name": "Shravani Ambekar",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/7248463b-d0dc-4901-8c80-f6c3cd29fd3d",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "8999763",
+                    "badgeDate": 1715558400000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "8999571",
+                    "badgeDate": 1715558400000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Kunal Mohare",
@@ -3826,6 +3843,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8999887",
+                    "badgeDate": 1715558400000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8990589",
                     "badgeDate": 1715558400000
@@ -3836,8 +3858,8 @@
                     "badgeDate": 1715558400000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 1
         },
@@ -4308,5 +4330,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 13, 2024 at 9:45 PM"
+    "time": "Monday, May 13, 2024 at 10:42 PM"
 }
