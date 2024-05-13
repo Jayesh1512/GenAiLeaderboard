@@ -2565,9 +2565,15 @@
             "name": "Madhuj Agrawal",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/a6c185d6-f9de-45fc-8935-2b49fe1457e4",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8991473",
+                    "badgeDate": 1715558400000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -3893,6 +3899,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Attention Mechanism",
+                    "badgeID": "8991792",
+                    "badgeDate": 1715558400000
+                },
+                {
+                    "badgeName": "Introduction to Image Generation",
+                    "badgeID": "8991587",
+                    "badgeDate": 1715558400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8948198",
                     "badgeDate": 1715212800000
@@ -4170,11 +4186,17 @@
             "name": "Himanshu Vinod Madan",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/08cd0109-1b20-48a4-a83d-813db7cafae2",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "8991765",
+                    "badgeDate": 1715558400000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Varad Bodkhe",
@@ -4197,5 +4219,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 13, 2024 at 11:46 AM"
+    "time": "Monday, May 13, 2024 at 12:42 PM"
 }
