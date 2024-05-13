@@ -1069,6 +1069,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "8996079",
+                    "badgeDate": 1715558400000
+                },
+                {
+                    "badgeName": "Level 1: Security and Compliance",
+                    "badgeID": "8995838",
+                    "badgeDate": 1715558400000
+                },
+                {
                     "badgeName": "The Arcade Trivia May 2024 Week 2",
                     "badgeID": "8993293",
                     "badgeDate": 1715558400000
@@ -2543,14 +2553,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "8996355",
+                    "badgeDate": 1715558400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8947170",
                     "badgeDate": 1715212800000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -4261,5 +4276,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 13, 2024 at 5:50 PM"
+    "time": "Monday, May 13, 2024 at 6:44 PM"
 }
