@@ -525,9 +525,15 @@
             "name": "Ariyaan Khurram",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/bc8c7056-f503-4b1b-896b-2eaa75f17a6e",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8998443",
+                    "badgeDate": 1715558400000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -4302,5 +4308,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 13, 2024 at 8:43 PM"
+    "time": "Monday, May 13, 2024 at 9:45 PM"
 }
