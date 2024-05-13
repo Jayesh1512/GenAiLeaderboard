@@ -106,9 +106,15 @@
             "name": "Divyansh Kumbhat",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/4710cc6e-8677-4148-9d1d-f510c62fe67e",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8996916",
+                    "badgeDate": 1715558400000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -2687,6 +2693,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "8996778",
+                    "badgeDate": 1715558400000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8981866",
                     "badgeDate": 1715472000000
@@ -2697,8 +2708,8 @@
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 1
         },
@@ -4276,5 +4287,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 13, 2024 at 6:44 PM"
+    "time": "Monday, May 13, 2024 at 7:41 PM"
 }
