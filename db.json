@@ -2876,7 +2876,13 @@
             "name": "Tejas Singh",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/ee4b1259-ce9e-4c11-93d4-54f8ad9d3d1f",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "8990605",
+                    "badgeDate": 1715558400000
+                }
+            ],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0,
@@ -3271,6 +3277,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "8990602",
+                    "badgeDate": 1715558400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8980948",
                     "badgeDate": 1715472000000
@@ -3286,9 +3297,9 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -3702,11 +3713,22 @@
             "name": "Sanish Khuje",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/3393cdaf-7adf-48f9-bb10-143d25e4f711",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "8990589",
+                    "badgeDate": 1715558400000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "8990551",
+                    "badgeDate": 1715558400000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Adwait Channawar",
@@ -4159,5 +4181,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 13, 2024 at 9:46 AM"
+    "time": "Monday, May 13, 2024 at 10:43 AM"
 }
