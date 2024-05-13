@@ -1469,11 +1469,22 @@
             "name": "Akshay Nandlal Mundle",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/1bfc4e2d-601e-4210-9d18-4de74e79f430",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "8991313",
+                    "badgeDate": 1715558400000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "8990837",
+                    "badgeDate": 1715558400000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Gargi Mukul Muley",
@@ -2878,6 +2889,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Large Language Models",
+                    "badgeID": "8991319",
+                    "badgeDate": 1715558400000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8990605",
                     "badgeDate": 1715558400000
@@ -4181,5 +4197,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 13, 2024 at 10:43 AM"
+    "time": "Monday, May 13, 2024 at 11:46 AM"
 }
