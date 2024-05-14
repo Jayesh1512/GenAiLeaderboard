@@ -1117,6 +1117,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Certification Zone May 2024",
+                    "badgeID": "9006781",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Level 2: Data with BigQuery",
                     "badgeID": "9001769",
                     "badgeDate": 1715558400000
@@ -2278,9 +2283,15 @@
             "name": "Mayank Mokhere",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/5817fe73-4544-4afe-b055-431a8643ebe2",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9007244",
+                    "badgeDate": 1715644800000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -4442,5 +4453,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 14, 2024 at 12:42 PM"
+    "time": "Tuesday, May 14, 2024 at 1:46 PM"
 }
