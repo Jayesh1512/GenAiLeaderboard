@@ -1117,6 +1117,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Responsible AI",
+                    "badgeID": "9007645",
+                    "badgeDate": 1715644800000
+                },
+                {
+                    "badgeName": "Perform Predictive Data Analysis in BigQuery",
+                    "badgeID": "9007364",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "The Arcade Certification Zone May 2024",
                     "badgeID": "9006781",
                     "badgeDate": 1715644800000
@@ -3097,6 +3107,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Responsible AI",
+                    "badgeID": "9007727",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Introduction to Large Language Models",
                     "badgeID": "8991319",
                     "badgeDate": 1715558400000
@@ -3212,9 +3227,15 @@
             "name": "Akshay Padia",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/84a8920a-018e-4b0f-a563-9f8dd571c28e",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9007967",
+                    "badgeDate": 1715644800000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -4453,5 +4474,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 14, 2024 at 1:46 PM"
+    "time": "Tuesday, May 14, 2024 at 2:43 PM"
 }
