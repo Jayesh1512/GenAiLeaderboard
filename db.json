@@ -3282,15 +3282,25 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9016551",
+                    "badgeDate": 1715644800000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9016480",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9008767",
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Palak Agrawal",
@@ -4580,5 +4590,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 14, 2024 at 11:46 PM"
+    "time": "Wednesday, May 15, 2024 at 12:40 AM"
 }
