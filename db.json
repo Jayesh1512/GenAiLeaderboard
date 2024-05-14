@@ -924,6 +924,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9006453",
+                    "badgeDate": 1715644800000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9006399",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "8980479",
                     "badgeDate": 1715472000000
@@ -934,10 +944,10 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Sarthak Abhaykumar Nahar",
@@ -1069,9 +1079,15 @@
             "name": "Akshat Anand Choubey",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/ae2246be-f2b4-4058-a547-d3c53cc664e3",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9006127",
+                    "badgeDate": 1715644800000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -1286,6 +1302,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9006034",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "8981694",
                     "badgeDate": 1715472000000
@@ -1296,10 +1317,10 @@
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Palak Tiwari",
@@ -4421,5 +4442,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 14, 2024 at 11:46 AM"
+    "time": "Tuesday, May 14, 2024 at 12:42 PM"
 }
