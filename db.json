@@ -1626,6 +1626,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9011438",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "8983471",
                     "badgeDate": 1715472000000
@@ -2212,11 +2217,17 @@
             "name": "soham kathalay",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/db4849b3-c4e2-4243-9dcc-2eaa58b97d82",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9012120",
+                    "badgeDate": 1715644800000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Om Telrandhe",
@@ -2770,14 +2781,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9012131",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8991473",
                     "badgeDate": 1715558400000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -4506,5 +4522,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 14, 2024 at 6:44 PM"
+    "time": "Tuesday, May 14, 2024 at 7:42 PM"
 }
