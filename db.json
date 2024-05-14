@@ -4301,15 +4301,20 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9010361",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9005342",
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Akshay Mundale",
@@ -4496,5 +4501,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 14, 2024 at 4:41 PM"
+    "time": "Tuesday, May 14, 2024 at 5:49 PM"
 }
