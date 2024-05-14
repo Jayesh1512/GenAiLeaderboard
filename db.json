@@ -1507,15 +1507,20 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9015192",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8983448",
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 0,
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Anchal Nandkishor Nalwale",
@@ -1974,6 +1979,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9015120",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9012326",
                     "badgeDate": 1715644800000
@@ -1989,9 +1999,9 @@
                     "badgeDate": 1715558400000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -2232,17 +2242,11 @@
             "name": "soham kathalay",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/db4849b3-c4e2-4243-9dcc-2eaa58b97d82",
             "isEnrollStatusGood": "All Good",
-            "badges": [
-                {
-                    "badgeName": "Level 3: GenAIus Registries",
-                    "badgeID": "9012120",
-                    "badgeDate": 1715644800000
-                }
-            ],
-            "skills": 1,
+            "badges": [],
+            "skills": 0,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 1
+            "trackThree": 0
         },
         {
             "name": "Om Telrandhe",
@@ -4347,9 +4351,15 @@
             "name": "Shreya Raut",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/8f218106-0c17-4155-94d6-0a0b498a74d1",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9015516",
+                    "badgeDate": 1715644800000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -4383,11 +4393,17 @@
             "name": "Akshay Mundale",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/36192045-94ee-4919-8789-dfecea933f88",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9015608",
+                    "badgeDate": 1715644800000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Eeshan Milind Wadodkar",
@@ -4564,5 +4580,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 14, 2024 at 10:41 PM"
+    "time": "Tuesday, May 14, 2024 at 11:46 PM"
 }
