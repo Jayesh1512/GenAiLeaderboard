@@ -2370,11 +2370,22 @@
             "name": "Prathmesh Hande",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/f31d8512-d7fe-47a3-99d5-2330888aa716",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9008562",
+                    "badgeDate": 1715644800000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9008499",
+                    "badgeDate": 1715644800000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Jayesh Shete",
@@ -3207,9 +3218,15 @@
             "name": "Anish Anand Pujari",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/4109c83c-c8d3-4eb8-98ea-735ce16a0172",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9008767",
+                    "badgeDate": 1715644800000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -3976,6 +3993,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9008089",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8999887",
                     "badgeDate": 1715558400000
@@ -3991,9 +4013,9 @@
                     "badgeDate": 1715558400000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -4474,5 +4496,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 14, 2024 at 2:43 PM"
+    "time": "Tuesday, May 14, 2024 at 3:44 PM"
 }
