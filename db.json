@@ -1343,6 +1343,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9013570",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8984318",
                     "badgeDate": 1715472000000
@@ -1358,9 +1363,9 @@
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -1399,6 +1404,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9013558",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8972286",
                     "badgeDate": 1715385600000
@@ -1409,8 +1419,8 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 1
         },
@@ -2875,6 +2885,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9013806",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8996778",
                     "badgeDate": 1715558400000
@@ -2890,9 +2905,9 @@
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -2929,7 +2944,13 @@
             "name": "Sarang patil",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/db26eb94-f976-4812-954f-477cf6a1575d",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
+            "badges": [
+                {
+                    "badgeName": "The Arcade Certification Zone May 2024",
+                    "badgeID": "9013756",
+                    "badgeDate": 1715644800000
+                }
+            ],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0,
@@ -4533,5 +4554,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 14, 2024 at 8:45 PM"
+    "time": "Tuesday, May 14, 2024 at 9:45 PM"
 }
