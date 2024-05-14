@@ -2802,6 +2802,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9014262",
+                    "badgeDate": 1715644800000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9014141",
+                    "badgeDate": 1715644800000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9012131",
                     "badgeDate": 1715644800000
@@ -2812,10 +2822,10 @@
                     "badgeDate": 1715558400000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Pooja Prakash Jaiswal",
@@ -4554,5 +4564,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 14, 2024 at 9:45 PM"
+    "time": "Tuesday, May 14, 2024 at 10:41 PM"
 }
