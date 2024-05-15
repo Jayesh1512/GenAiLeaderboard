@@ -2288,11 +2288,17 @@
             "name": "Om Telrandhe",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/56ff210b-6482-4537-8fa6-557d6376a6d8",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9023687",
+                    "badgeDate": 1715731200000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Prince Jain",
@@ -4636,5 +4642,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 15, 2024 at 3:44 PM"
+    "time": "Wednesday, May 15, 2024 at 4:42 PM"
 }
