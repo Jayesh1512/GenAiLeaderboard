@@ -1404,6 +1404,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9021445",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9013558",
                     "badgeDate": 1715644800000
@@ -1419,9 +1424,9 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -4626,5 +4631,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 15, 2024 at 12:44 PM"
+    "time": "Wednesday, May 15, 2024 at 1:45 PM"
 }
