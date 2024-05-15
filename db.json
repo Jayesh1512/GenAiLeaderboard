@@ -4436,6 +4436,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9028610",
+                    "badgeDate": 1715731200000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9028463",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9027637",
                     "badgeDate": 1715731200000
@@ -4446,10 +4456,10 @@
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Tanvi Bhoyar",
@@ -4678,5 +4688,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 15, 2024 at 8:43 PM"
+    "time": "Wednesday, May 15, 2024 at 9:45 PM"
 }
