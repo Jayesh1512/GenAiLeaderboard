@@ -610,6 +610,16 @@ export const leaderBoardData = [
         "rank": 62
     },
     {
+        "name": "Aarsh Gangulwar",
+        "skills": 2,
+        "trackOne": 1,
+        "trackTwo": 1,
+        "trackThree": 0,
+        "color": "pink",
+        "latestSkill": 1715731200000,
+        "rank": 63
+    },
+    {
         "name": "Mrunal Mahesh Tambat",
         "skills": 2,
         "trackOne": 1,
@@ -617,7 +627,17 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715731200000,
-        "rank": 63
+        "rank": 64
+    },
+    {
+        "name": "Saket Shashikant Rahate",
+        "skills": 2,
+        "trackOne": 0,
+        "trackTwo": 1,
+        "trackThree": 1,
+        "color": "pink",
+        "latestSkill": 1715731200000,
+        "rank": 65
     },
     {
         "name": "Himanshu Vinod Madan",
@@ -627,7 +647,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715731200000,
-        "rank": 64
+        "rank": 66
     },
     {
         "name": "samidha halmare",
@@ -637,7 +657,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1714608000000,
-        "rank": 65
+        "rank": 67
     },
     {
         "name": "Vedant Dnyaneshwar Kohad",
@@ -647,7 +667,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715212800000,
-        "rank": 66
+        "rank": 68
     },
     {
         "name": "Prathamesh Prashant Kurekar",
@@ -657,7 +677,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715385600000,
-        "rank": 67
+        "rank": 69
     },
     {
         "name": "Kunal Mohare",
@@ -667,7 +687,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715385600000,
-        "rank": 68
+        "rank": 70
     },
     {
         "name": "Mushrat khan",
@@ -677,7 +697,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715385600000,
-        "rank": 69
+        "rank": 71
     },
     {
         "name": "Aman Tembhare",
@@ -687,7 +707,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715472000000,
-        "rank": 70
+        "rank": 72
     },
     {
         "name": "Yash sharma",
@@ -697,7 +717,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715472000000,
-        "rank": 71
+        "rank": 73
     },
     {
         "name": "Yash Sachin Mishra",
@@ -707,7 +727,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715472000000,
-        "rank": 72
+        "rank": 74
     },
     {
         "name": "Sujit Dwivedi",
@@ -717,7 +737,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715472000000,
-        "rank": 73
+        "rank": 75
     },
     {
         "name": "Prathmesh Agrawal",
@@ -727,7 +747,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715472000000,
-        "rank": 74
+        "rank": 76
     },
     {
         "name": "Ariyaan Khurram",
@@ -737,7 +757,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715558400000,
-        "rank": 75
+        "rank": 77
     },
     {
         "name": "Anchal Nandkishor Nalwale",
@@ -747,7 +767,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715558400000,
-        "rank": 76
+        "rank": 78
     },
     {
         "name": "Akshay Nandlal Mundle",
@@ -757,7 +777,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715558400000,
-        "rank": 77
+        "rank": 79
     },
     {
         "name": "Aditya Daharwal",
@@ -767,7 +787,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715558400000,
-        "rank": 78
+        "rank": 80
     },
     {
         "name": "Shravani Ambekar",
@@ -777,7 +797,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715558400000,
-        "rank": 79
+        "rank": 81
     },
     {
         "name": "vikas shahu",
@@ -787,7 +807,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715558400000,
-        "rank": 80
+        "rank": 82
     },
     {
         "name": "Akshat Anand Choubey",
@@ -797,7 +817,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715644800000,
-        "rank": 81
+        "rank": 83
     },
     {
         "name": "Sharvari Shishir Gohane",
@@ -807,7 +827,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715644800000,
-        "rank": 82
+        "rank": 84
     },
     {
         "name": "Swarali Waman Fendar",
@@ -817,7 +837,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715644800000,
-        "rank": 83
+        "rank": 85
     },
     {
         "name": "Mayank Mokhere",
@@ -827,7 +847,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715644800000,
-        "rank": 84
+        "rank": 86
     },
     {
         "name": "Prathmesh Hande",
@@ -837,7 +857,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715644800000,
-        "rank": 85
+        "rank": 87
     },
     {
         "name": "Hariom Nabira",
@@ -847,7 +867,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715644800000,
-        "rank": 86
+        "rank": 88
     },
     {
         "name": "Akshay Padia",
@@ -857,7 +877,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715644800000,
-        "rank": 87
+        "rank": 89
     },
     {
         "name": "Akshay Mundale",
@@ -867,17 +887,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715644800000,
-        "rank": 88
-    },
-    {
-        "name": "Aarsh Gangulwar",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "trackThree": 0,
-        "color": "blue",
-        "latestSkill": 1715731200000,
-        "rank": 89
+        "rank": 90
     },
     {
         "name": "Om Telrandhe",
@@ -885,16 +895,6 @@ export const leaderBoardData = [
         "trackOne": 0,
         "trackTwo": 0,
         "trackThree": 1,
-        "color": "blue",
-        "latestSkill": 1715731200000,
-        "rank": 90
-    },
-    {
-        "name": "Saket Shashikant Rahate",
-        "skills": 1,
-        "trackOne": 0,
-        "trackTwo": 1,
-        "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715731200000,
         "rank": 91
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Wednesday, May 15, 2024 at 11:44 PM"
+export const updateTime =  "Thursday, May 16, 2024 at 12:41 AM"

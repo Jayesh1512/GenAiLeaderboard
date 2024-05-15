@@ -1820,14 +1820,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9030480",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9029438",
                     "badgeDate": 1715731200000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -4093,15 +4098,25 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9030751",
+                    "badgeDate": 1715731200000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9030687",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9030135",
                     "badgeDate": 1715731200000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 0,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Sachin Rakesh Yadav",
@@ -4730,5 +4745,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 15, 2024 at 11:44 PM"
+    "time": "Thursday, May 16, 2024 at 12:41 AM"
 }
