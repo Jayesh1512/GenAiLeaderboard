@@ -307,6 +307,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Secure BigLake Data",
+                    "badgeID": "9030032",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8988687",
                     "badgeDate": 1715472000000
@@ -1117,6 +1122,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Get Started with Dataplex",
+                    "badgeID": "9029433",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Manage Data Models in Looker",
                     "badgeID": "9026640",
                     "badgeDate": 1715731200000
@@ -1808,9 +1818,15 @@
             "name": "Aarsh Gangulwar",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/855988c5-fe74-4f51-9441-32329635cc4b",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9029438",
+                    "badgeDate": 1715731200000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -2331,6 +2347,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9029711",
+                    "badgeDate": 1715731200000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9029646",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "8976427",
                     "badgeDate": 1715385600000
@@ -2341,10 +2367,10 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Shamika Kushal Aney",
@@ -3227,6 +3253,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9030077",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "9028774",
                     "badgeDate": 1715731200000
@@ -3237,8 +3268,8 @@
                     "badgeDate": 1715731200000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 1
         },
@@ -4060,10 +4091,16 @@
             "name": "Saket Shashikant Rahate",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/29dd5b8b-e9b3-4b31-b6af-856b4b221db1",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9030135",
+                    "badgeDate": 1715731200000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -4693,5 +4730,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 15, 2024 at 10:42 PM"
+    "time": "Wednesday, May 15, 2024 at 11:44 PM"
 }
