@@ -3215,11 +3215,17 @@
             "name": "Mrunal Mahesh Tambat",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/7a47bfd3-a939-4e84-a20e-17c9bd879e6c",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9025700",
+                    "badgeDate": 1715731200000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Nehanshu Yograj Gaidhani",
@@ -4616,6 +4622,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9025745",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "8991765",
                     "badgeDate": 1715558400000
@@ -4647,5 +4658,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 15, 2024 at 5:51 PM"
+    "time": "Wednesday, May 15, 2024 at 6:44 PM"
 }
