@@ -1117,6 +1117,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Build LookML Objects in Looker",
+                    "badgeID": "9022167",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Introduction to Responsible AI",
                     "badgeID": "9007645",
                     "badgeDate": 1715644800000
@@ -4631,5 +4636,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 15, 2024 at 1:45 PM"
+    "time": "Wednesday, May 15, 2024 at 2:44 PM"
 }

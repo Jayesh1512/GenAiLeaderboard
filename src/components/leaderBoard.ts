@@ -360,7 +360,7 @@ export const leaderBoardData = [
         "rank": 37
     },
     {
-        "name": "Aashi Yashpal Kohad",
+        "name": "Harshita Khare",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -370,7 +370,7 @@ export const leaderBoardData = [
         "rank": 38
     },
     {
-        "name": "Harshita Khare",
+        "name": "Harshal Borkar",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -380,7 +380,7 @@ export const leaderBoardData = [
         "rank": 39
     },
     {
-        "name": "Harshal Borkar",
+        "name": "Palak Tiwari",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -390,7 +390,7 @@ export const leaderBoardData = [
         "rank": 40
     },
     {
-        "name": "Palak Tiwari",
+        "name": "Paras Yogesh Badwaik",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -400,7 +400,7 @@ export const leaderBoardData = [
         "rank": 41
     },
     {
-        "name": "Paras Yogesh Badwaik",
+        "name": "Uttkarsh Shankarrao Khanke",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -410,7 +410,7 @@ export const leaderBoardData = [
         "rank": 42
     },
     {
-        "name": "Uttkarsh Shankarrao Khanke",
+        "name": "Madhuj Agrawal",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -420,7 +420,7 @@ export const leaderBoardData = [
         "rank": 43
     },
     {
-        "name": "Madhuj Agrawal",
+        "name": "aditithakre451@gmail.com",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -430,7 +430,7 @@ export const leaderBoardData = [
         "rank": 44
     },
     {
-        "name": "aditithakre451@gmail.com",
+        "name": "Sanish Khuje",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -440,13 +440,13 @@ export const leaderBoardData = [
         "rank": 45
     },
     {
-        "name": "Sanish Khuje",
+        "name": "Aashi Yashpal Kohad",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1715644800000,
+        "latestSkill": 1715731200000,
         "rank": 46
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Wednesday, May 15, 2024 at 1:45 PM"
+export const updateTime =  "Wednesday, May 15, 2024 at 2:44 PM"
