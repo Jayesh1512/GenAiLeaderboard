@@ -2089,7 +2089,23 @@
             "name": "Atharva Rakshak",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/1c994b2d-9318-4383-8309-86543d0a775e",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
+            "badges": [
+                {
+                    "badgeName": "Introduction to Responsible AI",
+                    "badgeID": "9020003",
+                    "badgeDate": 1715731200000
+                },
+                {
+                    "badgeName": "Introduction to Large Language Models",
+                    "badgeID": "9019980",
+                    "badgeDate": 1715731200000
+                },
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9019910",
+                    "badgeDate": 1715731200000
+                }
+            ],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0,
@@ -4590,5 +4606,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 15, 2024 at 9:44 AM"
+    "time": "Wednesday, May 15, 2024 at 10:43 AM"
 }
