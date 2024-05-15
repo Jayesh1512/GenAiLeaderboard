@@ -3227,6 +3227,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9028774",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "9025700",
                     "badgeDate": 1715731200000
@@ -4688,5 +4693,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 15, 2024 at 9:45 PM"
+    "time": "Wednesday, May 15, 2024 at 10:42 PM"
 }
