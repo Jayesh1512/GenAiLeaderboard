@@ -3007,6 +3007,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9026924",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9024739",
                     "badgeDate": 1715731200000
@@ -3027,9 +3032,9 @@
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -4431,14 +4436,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9027637",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9015516",
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -4627,6 +4637,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9027656",
+                    "badgeDate": 1715731200000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "9025745",
                     "badgeDate": 1715731200000
@@ -4637,9 +4652,9 @@
                     "badgeDate": 1715558400000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 0,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -4663,5 +4678,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 15, 2024 at 7:43 PM"
+    "time": "Wednesday, May 15, 2024 at 8:43 PM"
 }
