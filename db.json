@@ -1143,6 +1143,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Derive Insights from BigQuery Data",
+                    "badgeID": "9035874",
+                    "badgeDate": 1715817600000
+                },
+                {
                     "badgeName": "Get Started with Dataplex",
                     "badgeID": "9029433",
                     "badgeDate": 1715731200000
@@ -4771,5 +4776,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 16, 2024 at 12:41 PM"
+    "time": "Thursday, May 16, 2024 at 1:44 PM"
 }
