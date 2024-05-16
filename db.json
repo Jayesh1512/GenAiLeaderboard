@@ -1154,6 +1154,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Store, Process, and Manage Data on Google Cloud - Command Line",
+                    "badgeID": "9041301",
+                    "badgeDate": 1715817600000
+                },
+                {
                     "badgeName": "Derive Insights from BigQuery Data",
                     "badgeID": "9035874",
                     "badgeDate": 1715817600000
@@ -4807,5 +4812,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 16, 2024 at 7:43 PM"
+    "time": "Thursday, May 16, 2024 at 8:43 PM"
 }
