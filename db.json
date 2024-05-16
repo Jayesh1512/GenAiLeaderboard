@@ -1877,6 +1877,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9044648",
+                    "badgeDate": 1715817600000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9044627",
+                    "badgeDate": 1715817600000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9030480",
                     "badgeDate": 1715731200000
@@ -1887,10 +1897,10 @@
                     "badgeDate": 1715731200000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Mrunal Thakre",
@@ -4817,5 +4827,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 17, 2024 at 12:41 AM"
+    "time": "Friday, May 17, 2024 at 1:43 AM"
 }
