@@ -203,11 +203,22 @@
             "name": "Sujal Trivedi",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/0b49b5ed-3b6b-460a-9608-03b10e8db51a",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9037016",
+                    "badgeDate": 1715817600000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9036953",
+                    "badgeDate": 1715817600000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Om Chillure",
@@ -4776,5 +4787,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 16, 2024 at 1:44 PM"
+    "time": "Thursday, May 16, 2024 at 2:43 PM"
 }
