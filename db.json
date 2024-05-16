@@ -1154,6 +1154,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Set Up an App Dev Environment on Google Cloud",
+                    "badgeID": "9042483",
+                    "badgeDate": 1715817600000
+                },
+                {
                     "badgeName": "Store, Process, and Manage Data on Google Cloud - Command Line",
                     "badgeID": "9041301",
                     "badgeDate": 1715817600000
@@ -4812,5 +4817,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 16, 2024 at 9:43 PM"
+    "time": "Thursday, May 16, 2024 at 10:41 PM"
 }
