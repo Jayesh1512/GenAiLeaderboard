@@ -571,7 +571,13 @@
             "name": "Sanket Suryawanshi",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/ee23c9f5-088d-4cc3-9653-b5ec50667b2e",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9034203",
+                    "badgeDate": 1715817600000
+                }
+            ],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0,
@@ -4750,5 +4756,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 16, 2024 at 9:43 AM"
+    "time": "Thursday, May 16, 2024 at 10:43 AM"
 }
