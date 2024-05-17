@@ -296,9 +296,15 @@
             "name": "Jasmitsingh Saggu",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/b581678b-0334-4f4e-8bb8-b7ec5bd0ab35",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9053305",
+                    "badgeDate": 1715904000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -4853,5 +4859,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 17, 2024 at 5:50 PM"
+    "time": "Friday, May 17, 2024 at 6:43 PM"
 }
