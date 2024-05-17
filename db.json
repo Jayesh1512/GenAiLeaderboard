@@ -2393,6 +2393,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9052418",
+                    "badgeDate": 1715904000000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9050881",
                     "badgeDate": 1715904000000
@@ -2403,8 +2408,8 @@
                     "badgeDate": 1715731200000
                 }
             ],
-            "skills": 2,
-            "trackOne": 0,
+            "skills": 3,
+            "trackOne": 1,
             "trackTwo": 1,
             "trackThree": 1
         },
@@ -3113,11 +3118,22 @@
             "name": "Ayush Dhamecha",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/00ed1354-9895-4525-8b30-505cdf54c064",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9052331",
+                    "badgeDate": 1715904000000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9052050",
+                    "badgeDate": 1715904000000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Sarang patil",
@@ -4837,5 +4853,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 17, 2024 at 4:42 PM"
+    "time": "Friday, May 17, 2024 at 5:50 PM"
 }
