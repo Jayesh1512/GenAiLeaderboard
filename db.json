@@ -4615,11 +4615,22 @@
             "name": "Dev Hotchandani",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/efc4374c-7768-47fa-ac9e-8ad189d27746",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9059067",
+                    "badgeDate": 1715904000000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9058980",
+                    "badgeDate": 1715904000000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Shreya Raut",
@@ -4879,5 +4890,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 18, 2024 at 2:41 AM"
+    "time": "Saturday, May 18, 2024 at 3:42 AM"
 }
