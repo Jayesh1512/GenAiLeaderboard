@@ -850,7 +850,7 @@ export const leaderBoardData = [
         "rank": 86
     },
     {
-        "name": "Sharvari Shishir Gohane",
+        "name": "Swarali Waman Fendar",
         "skills": 1,
         "trackOne": 0,
         "trackTwo": 0,
@@ -860,16 +860,6 @@ export const leaderBoardData = [
         "rank": 87
     },
     {
-        "name": "Swarali Waman Fendar",
-        "skills": 1,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "trackThree": 1,
-        "color": "blue",
-        "latestSkill": 1715644800000,
-        "rank": 88
-    },
-    {
         "name": "Mayank Mokhere",
         "skills": 1,
         "trackOne": 1,
@@ -877,7 +867,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715644800000,
-        "rank": 89
+        "rank": 88
     },
     {
         "name": "Akshay Padia",
@@ -887,7 +877,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715644800000,
-        "rank": 90
+        "rank": 89
     },
     {
         "name": "Akshay Mundale",
@@ -897,7 +887,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715644800000,
-        "rank": 91
+        "rank": 90
     },
     {
         "name": "Sujal Trivedi",
@@ -907,7 +897,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715817600000,
-        "rank": 92
+        "rank": 91
     },
     {
         "name": "vikas shahu",
@@ -917,7 +907,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715817600000,
-        "rank": 93
+        "rank": 92
     },
     {
         "name": "Jasmitsingh Saggu",
@@ -925,6 +915,16 @@ export const leaderBoardData = [
         "trackOne": 1,
         "trackTwo": 0,
         "trackThree": 0,
+        "color": "blue",
+        "latestSkill": 1715904000000,
+        "rank": 93
+    },
+    {
+        "name": "Sharvari Shishir Gohane",
+        "skills": 1,
+        "trackOne": 0,
+        "trackTwo": 0,
+        "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715904000000,
         "rank": 94
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Saturday, May 18, 2024 at 12:41 AM"
+export const updateTime =  "Saturday, May 18, 2024 at 1:43 AM"

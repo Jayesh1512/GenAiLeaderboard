@@ -1595,6 +1595,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Certification Zone May 2024",
+                    "badgeID": "9058228",
+                    "badgeDate": 1715904000000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "9015192",
                     "badgeDate": 1715644800000
@@ -4874,5 +4879,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 18, 2024 at 12:41 AM"
+    "time": "Saturday, May 18, 2024 at 1:43 AM"
 }
