@@ -595,6 +595,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Responsible AI: Applying AI Principles with Google Cloud",
+                    "badgeID": "9055678",
+                    "badgeDate": 1715904000000
+                },
+                {
                     "badgeName": "Introduction to Responsible AI",
                     "badgeID": "9034615",
                     "badgeDate": 1715817600000
@@ -4859,5 +4864,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 17, 2024 at 8:43 PM"
+    "time": "Friday, May 17, 2024 at 9:43 PM"
 }
