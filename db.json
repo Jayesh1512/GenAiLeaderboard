@@ -2276,6 +2276,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Certification Zone May 2024",
+                    "badgeID": "9061549",
+                    "badgeDate": 1715990400000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8981737",
                     "badgeDate": 1715472000000
@@ -4900,5 +4905,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 18, 2024 at 11:45 AM"
+    "time": "Saturday, May 18, 2024 at 12:42 PM"
 }
