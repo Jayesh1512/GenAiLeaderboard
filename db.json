@@ -3680,6 +3680,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Certification Zone May 2024",
+                    "badgeID": "9060847",
+                    "badgeDate": 1715990400000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8964455",
                     "badgeDate": 1715299200000
@@ -3752,6 +3757,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9061051",
+                    "badgeDate": 1715990400000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8970708",
                     "badgeDate": 1715385600000
@@ -3767,9 +3777,9 @@
                     "badgeDate": 1715212800000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -4890,5 +4900,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 18, 2024 at 10:43 AM"
+    "time": "Saturday, May 18, 2024 at 11:45 AM"
 }
