@@ -2499,9 +2499,15 @@
             "name": "Ayush Askar",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/38863f26-4f63-43f1-a8a8-a798f5ae6636",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9067641",
+                    "badgeDate": 1715990400000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -3468,6 +3474,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/bbc30c7d-5d90-4269-8ff1-bdbec5399ac1",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "The Arcade Certification Zone May 2024",
+                    "badgeID": "9067693",
+                    "badgeDate": 1715990400000
+                },
                 {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "8945935",
@@ -4920,5 +4931,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 18, 2024 at 9:43 PM"
+    "time": "Saturday, May 18, 2024 at 10:40 PM"
 }
