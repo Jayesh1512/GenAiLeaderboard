@@ -2506,6 +2506,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Responsible AI: Applying AI Principles with Google Cloud",
+                    "badgeID": "9076284",
+                    "badgeDate": 1716076800000
+                },
+                {
                     "badgeName": "Introduction to Responsible AI",
                     "badgeID": "9073739",
                     "badgeDate": 1716076800000
@@ -4314,6 +4319,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 1: Security and Compliance",
+                    "badgeID": "9076023",
+                    "badgeDate": 1716076800000
+                },
+                {
                     "badgeName": "The Arcade Trivia May 2024 Week 2",
                     "badgeID": "8981526",
                     "badgeDate": 1715472000000
@@ -4961,5 +4971,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 19, 2024 at 4:42 PM"
+    "time": "Sunday, May 19, 2024 at 5:48 PM"
 }
