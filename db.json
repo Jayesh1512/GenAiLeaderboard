@@ -595,6 +595,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9072530",
+                    "badgeDate": 1716076800000
+                },
+                {
                     "badgeName": "Responsible AI: Applying AI Principles with Google Cloud",
                     "badgeID": "9055678",
                     "badgeDate": 1715904000000
@@ -615,8 +620,8 @@
                     "badgeDate": 1715817600000
                 }
             ],
-            "skills": 0,
-            "trackOne": 0,
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -2501,6 +2506,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9072889",
+                    "badgeDate": 1716076800000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9072546",
+                    "badgeDate": 1716076800000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9068562",
                     "badgeDate": 1715990400000
@@ -2511,10 +2526,10 @@
                     "badgeDate": 1715990400000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Mayank Mokhere",
@@ -4936,5 +4951,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 19, 2024 at 11:45 AM"
+    "time": "Sunday, May 19, 2024 at 12:41 PM"
 }
