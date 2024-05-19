@@ -2506,6 +2506,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Responsible AI",
+                    "badgeID": "9073739",
+                    "badgeDate": 1716076800000
+                },
+                {
                     "badgeName": "Introduction to Large Language Models",
                     "badgeID": "9073561",
                     "badgeDate": 1716076800000
@@ -4956,5 +4961,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 19, 2024 at 1:43 PM"
+    "time": "Sunday, May 19, 2024 at 2:43 PM"
 }
