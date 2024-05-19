@@ -510,7 +510,7 @@ export const leaderBoardData = [
         "rank": 52
     },
     {
-        "name": "Shruti Sanjay Khadatkar",
+        "name": "Shehzan Ahmed Sheikh",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -520,7 +520,7 @@ export const leaderBoardData = [
         "rank": 53
     },
     {
-        "name": "Shehzan Ahmed Sheikh",
+        "name": "Vidyut Raja Chakrabarti",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -530,7 +530,7 @@ export const leaderBoardData = [
         "rank": 54
     },
     {
-        "name": "Vidyut Raja Chakrabarti",
+        "name": "Prakhar Pande",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -540,7 +540,7 @@ export const leaderBoardData = [
         "rank": 55
     },
     {
-        "name": "Prakhar Pande",
+        "name": "Dev Hotchandani",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -550,17 +550,17 @@ export const leaderBoardData = [
         "rank": 56
     },
     {
-        "name": "Dev Hotchandani",
+        "name": "Ayush Askar",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1715990400000,
+        "latestSkill": 1716076800000,
         "rank": 57
     },
     {
-        "name": "Ayush Askar",
+        "name": "Shruti Sanjay Khadatkar",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Sunday, May 19, 2024 at 10:43 PM"
+export const updateTime =  "Sunday, May 19, 2024 at 11:44 PM"
