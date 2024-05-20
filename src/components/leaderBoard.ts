@@ -580,17 +580,17 @@ export const leaderBoardData = [
         "rank": 59
     },
     {
-        "name": "Atharva Werulkar",
-        "skills": 2,
+        "name": "SOHAIB SHAIKH",
+        "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
-        "trackThree": 0,
-        "color": "pink",
-        "latestSkill": 1715385600000,
+        "trackThree": 1,
+        "color": "green",
+        "latestSkill": 1716163200000,
         "rank": 60
     },
     {
-        "name": "Sudhir Anil Singh",
+        "name": "Atharva Werulkar",
         "skills": 2,
         "trackOne": 1,
         "trackTwo": 1,
@@ -600,17 +600,17 @@ export const leaderBoardData = [
         "rank": 61
     },
     {
-        "name": "Piyush Sharma",
+        "name": "Sudhir Anil Singh",
         "skills": 2,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 0,
         "color": "pink",
-        "latestSkill": 1715472000000,
+        "latestSkill": 1715385600000,
         "rank": 62
     },
     {
-        "name": "Samiksha Agrawal",
+        "name": "Piyush Sharma",
         "skills": 2,
         "trackOne": 1,
         "trackTwo": 1,
@@ -620,13 +620,13 @@ export const leaderBoardData = [
         "rank": 63
     },
     {
-        "name": "SOHAIB SHAIKH",
+        "name": "Samiksha Agrawal",
         "skills": 2,
         "trackOne": 1,
-        "trackTwo": 0,
-        "trackThree": 1,
+        "trackTwo": 1,
+        "trackThree": 0,
         "color": "pink",
-        "latestSkill": 1715558400000,
+        "latestSkill": 1715472000000,
         "rank": 64
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Tuesday, May 21, 2024 at 1:43 AM"
+export const updateTime =  "Tuesday, May 21, 2024 at 2:41 AM"
