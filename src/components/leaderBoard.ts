@@ -570,16 +570,6 @@ export const leaderBoardData = [
         "rank": 58
     },
     {
-        "name": "Sachin Rakesh Yadav",
-        "skills": 3,
-        "trackOne": 1,
-        "trackTwo": 1,
-        "trackThree": 1,
-        "color": "green",
-        "latestSkill": 1716076800000,
-        "rank": 59
-    },
-    {
         "name": "SOHAIB SHAIKH",
         "skills": 3,
         "trackOne": 1,
@@ -587,6 +577,16 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "green",
         "latestSkill": 1716163200000,
+        "rank": 59
+    },
+    {
+        "name": "Sachin Rakesh Yadav",
+        "skills": 3,
+        "trackOne": 1,
+        "trackTwo": 1,
+        "trackThree": 1,
+        "color": "green",
+        "latestSkill": 1716249600000,
         "rank": 60
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Tuesday, May 21, 2024 at 11:46 AM"
+export const updateTime =  "Tuesday, May 21, 2024 at 12:41 PM"

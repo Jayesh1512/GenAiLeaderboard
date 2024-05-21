@@ -4329,6 +4329,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 2: Data with BigQuery",
+                    "badgeID": "9100438",
+                    "badgeDate": 1716249600000
+                },
+                {
                     "badgeName": "Level 1: Security and Compliance",
                     "badgeID": "9076023",
                     "badgeDate": 1716076800000
@@ -4981,5 +4986,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 21, 2024 at 11:46 AM"
+    "time": "Tuesday, May 21, 2024 at 12:41 PM"
 }
