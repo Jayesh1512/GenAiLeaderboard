@@ -2511,6 +2511,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Gemini for end-to-end SDLC",
+                    "badgeID": "9110672",
+                    "badgeDate": 1716249600000
+                },
+                {
+                    "badgeName": "Gemini for DevOps Engineers",
+                    "badgeID": "9109986",
+                    "badgeDate": 1716249600000
+                },
+                {
                     "badgeName": "Gemini for Network Engineers",
                     "badgeID": "9107991",
                     "badgeDate": 1716249600000
@@ -5016,5 +5026,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 21, 2024 at 10:41 PM"
+    "time": "Tuesday, May 21, 2024 at 11:45 PM"
 }
