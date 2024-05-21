@@ -2506,6 +2506,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Gemini for Network Engineers",
+                    "badgeID": "9107991",
+                    "badgeDate": 1716249600000
+                },
+                {
                     "badgeName": "Gemini for Cloud Architects",
                     "badgeID": "9104553",
                     "badgeDate": 1716249600000
@@ -4996,5 +5001,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 21, 2024 at 7:41 PM"
+    "time": "Tuesday, May 21, 2024 at 8:43 PM"
 }
