@@ -1175,6 +1175,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia May 2024 Week 3",
+                    "badgeID": "9108135",
+                    "badgeDate": 1716249600000
+                },
+                {
                     "badgeName": "Set Up an App Dev Environment on Google Cloud",
                     "badgeID": "9042483",
                     "badgeDate": 1715817600000
@@ -4718,6 +4723,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia May 2024 Week 1",
+                    "badgeID": "9108959",
+                    "badgeDate": 1716249600000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9065629",
                     "badgeDate": 1715990400000
@@ -5001,5 +5011,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 21, 2024 at 8:43 PM"
+    "time": "Tuesday, May 21, 2024 at 9:43 PM"
 }
