@@ -2506,6 +2506,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Gemini for Security Engineers",
+                    "badgeID": "9103562",
+                    "badgeDate": 1716249600000
+                },
+                {
                     "badgeName": "Responsible AI: Applying AI Principles with Google Cloud",
                     "badgeID": "9076284",
                     "badgeDate": 1716076800000
@@ -4986,5 +4991,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 21, 2024 at 3:43 PM"
+    "time": "Tuesday, May 21, 2024 at 4:42 PM"
 }
