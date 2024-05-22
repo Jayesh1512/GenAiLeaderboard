@@ -4276,9 +4276,15 @@
             "name": "Harsh Vardhan",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/db59ce19-a3f8-4753-88e5-55e73d08999c",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9125267",
+                    "badgeDate": 1716336000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -5057,5 +5063,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 22, 2024 at 9:45 PM"
+    "time": "Wednesday, May 22, 2024 at 10:41 PM"
 }
