@@ -4891,9 +4891,15 @@
             "name": "Shruti Sharma",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/c2cd62c4-6b8a-4169-91bd-c3ed521a0ddf",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9116430",
+                    "badgeDate": 1716336000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -5031,5 +5037,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 22, 2024 at 12:42 PM"
+    "time": "Wednesday, May 22, 2024 at 1:45 PM"
 }
