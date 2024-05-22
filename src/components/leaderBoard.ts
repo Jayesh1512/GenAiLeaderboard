@@ -730,6 +730,16 @@ export const leaderBoardData = [
         "rank": 74
     },
     {
+        "name": "Swarali Waman Fendar",
+        "skills": 2,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "trackThree": 1,
+        "color": "pink",
+        "latestSkill": 1716249600000,
+        "rank": 75
+    },
+    {
         "name": "samidha halmare",
         "skills": 1,
         "trackOne": 0,
@@ -737,7 +747,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1714608000000,
-        "rank": 75
+        "rank": 76
     },
     {
         "name": "Vedant Dnyaneshwar Kohad",
@@ -747,7 +757,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715212800000,
-        "rank": 76
+        "rank": 77
     },
     {
         "name": "Prathamesh Prashant Kurekar",
@@ -757,7 +767,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715385600000,
-        "rank": 77
+        "rank": 78
     },
     {
         "name": "Kunal Mohare",
@@ -767,7 +777,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715385600000,
-        "rank": 78
+        "rank": 79
     },
     {
         "name": "Mushrat khan",
@@ -777,7 +787,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715385600000,
-        "rank": 79
+        "rank": 80
     },
     {
         "name": "Aman Tembhare",
@@ -787,7 +797,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715472000000,
-        "rank": 80
+        "rank": 81
     },
     {
         "name": "Yash Sachin Mishra",
@@ -797,7 +807,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715472000000,
-        "rank": 81
+        "rank": 82
     },
     {
         "name": "Sujit Dwivedi",
@@ -807,7 +817,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715472000000,
-        "rank": 82
+        "rank": 83
     },
     {
         "name": "Prathmesh Agrawal",
@@ -817,7 +827,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715472000000,
-        "rank": 83
+        "rank": 84
     },
     {
         "name": "Ariyaan Khurram",
@@ -827,7 +837,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715558400000,
-        "rank": 84
+        "rank": 85
     },
     {
         "name": "Akshay Nandlal Mundle",
@@ -837,7 +847,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715558400000,
-        "rank": 85
+        "rank": 86
     },
     {
         "name": "Aditya Daharwal",
@@ -847,7 +857,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715558400000,
-        "rank": 86
+        "rank": 87
     },
     {
         "name": "Shravani Ambekar",
@@ -857,7 +867,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715558400000,
-        "rank": 87
+        "rank": 88
     },
     {
         "name": "Akshat Anand Choubey",
@@ -865,16 +875,6 @@ export const leaderBoardData = [
         "trackOne": 1,
         "trackTwo": 0,
         "trackThree": 0,
-        "color": "blue",
-        "latestSkill": 1715644800000,
-        "rank": 88
-    },
-    {
-        "name": "Swarali Waman Fendar",
-        "skills": 1,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715644800000,
         "rank": 89
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Wednesday, May 22, 2024 at 8:44 AM"
+export const updateTime =  "Wednesday, May 22, 2024 at 9:44 AM"
