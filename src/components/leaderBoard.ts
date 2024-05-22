@@ -550,7 +550,7 @@ export const leaderBoardData = [
         "rank": 56
     },
     {
-        "name": "Aashi Yashpal Kohad",
+        "name": "Ayush Askar",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -560,7 +560,7 @@ export const leaderBoardData = [
         "rank": 57
     },
     {
-        "name": "Ayush Askar",
+        "name": "Ayush Dhamecha",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -570,7 +570,7 @@ export const leaderBoardData = [
         "rank": 58
     },
     {
-        "name": "Ayush Dhamecha",
+        "name": "Sachin Rakesh Yadav",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -580,13 +580,13 @@ export const leaderBoardData = [
         "rank": 59
     },
     {
-        "name": "Sachin Rakesh Yadav",
+        "name": "Aashi Yashpal Kohad",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1716249600000,
+        "latestSkill": 1716336000000,
         "rank": 60
     },
     {
@@ -596,7 +596,7 @@ export const leaderBoardData = [
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1716249600000,
+        "latestSkill": 1716336000000,
         "rank": 61
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Wednesday, May 22, 2024 at 6:44 PM"
+export const updateTime =  "Wednesday, May 22, 2024 at 7:42 PM"
