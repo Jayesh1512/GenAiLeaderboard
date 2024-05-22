@@ -740,6 +740,16 @@ export const leaderBoardData = [
         "rank": 75
     },
     {
+        "name": "Yash Sachin Mishra",
+        "skills": 2,
+        "trackOne": 0,
+        "trackTwo": 1,
+        "trackThree": 1,
+        "color": "pink",
+        "latestSkill": 1716336000000,
+        "rank": 76
+    },
+    {
         "name": "samidha halmare",
         "skills": 1,
         "trackOne": 0,
@@ -747,7 +757,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1714608000000,
-        "rank": 76
+        "rank": 77
     },
     {
         "name": "Vedant Dnyaneshwar Kohad",
@@ -757,7 +767,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715212800000,
-        "rank": 77
+        "rank": 78
     },
     {
         "name": "Prathamesh Prashant Kurekar",
@@ -767,7 +777,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715385600000,
-        "rank": 78
+        "rank": 79
     },
     {
         "name": "Kunal Mohare",
@@ -777,7 +787,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "blue",
         "latestSkill": 1715385600000,
-        "rank": 79
+        "rank": 80
     },
     {
         "name": "Mushrat khan",
@@ -787,20 +797,10 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1715385600000,
-        "rank": 80
-    },
-    {
-        "name": "Aman Tembhare",
-        "skills": 1,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "trackThree": 1,
-        "color": "blue",
-        "latestSkill": 1715472000000,
         "rank": 81
     },
     {
-        "name": "Yash Sachin Mishra",
+        "name": "Aman Tembhare",
         "skills": 1,
         "trackOne": 0,
         "trackTwo": 0,
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Wednesday, May 22, 2024 at 2:43 PM"
+export const updateTime =  "Wednesday, May 22, 2024 at 3:42 PM"

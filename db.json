@@ -1528,14 +1528,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9118866",
+                    "badgeDate": 1716336000000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "8980782",
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 0,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -5037,5 +5042,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 22, 2024 at 2:43 PM"
+    "time": "Wednesday, May 22, 2024 at 3:42 PM"
 }
