@@ -590,7 +590,7 @@ export const leaderBoardData = [
         "rank": 60
     },
     {
-        "name": "Shravani Ambekar",
+        "name": "Swarali Waman Fendar",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -600,7 +600,7 @@ export const leaderBoardData = [
         "rank": 61
     },
     {
-        "name": "Dev Hotchandani",
+        "name": "Shravani Ambekar",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -610,17 +610,17 @@ export const leaderBoardData = [
         "rank": 62
     },
     {
-        "name": "Atharva Werulkar",
-        "skills": 2,
+        "name": "Dev Hotchandani",
+        "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
-        "trackThree": 0,
-        "color": "pink",
-        "latestSkill": 1715385600000,
+        "trackThree": 1,
+        "color": "green",
+        "latestSkill": 1716336000000,
         "rank": 63
     },
     {
-        "name": "Sudhir Anil Singh",
+        "name": "Atharva Werulkar",
         "skills": 2,
         "trackOne": 1,
         "trackTwo": 1,
@@ -630,17 +630,17 @@ export const leaderBoardData = [
         "rank": 64
     },
     {
-        "name": "Piyush Sharma",
+        "name": "Sudhir Anil Singh",
         "skills": 2,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 0,
         "color": "pink",
-        "latestSkill": 1715472000000,
+        "latestSkill": 1715385600000,
         "rank": 65
     },
     {
-        "name": "Samiksha Agrawal",
+        "name": "Piyush Sharma",
         "skills": 2,
         "trackOne": 1,
         "trackTwo": 1,
@@ -650,6 +650,16 @@ export const leaderBoardData = [
         "rank": 66
     },
     {
+        "name": "Samiksha Agrawal",
+        "skills": 2,
+        "trackOne": 1,
+        "trackTwo": 1,
+        "trackThree": 0,
+        "color": "pink",
+        "latestSkill": 1715472000000,
+        "rank": 67
+    },
+    {
         "name": "sanika raut",
         "skills": 2,
         "trackOne": 1,
@@ -657,7 +667,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715558400000,
-        "rank": 67
+        "rank": 68
     },
     {
         "name": "Vivek Radheshyam Katre",
@@ -667,7 +677,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "pink",
         "latestSkill": 1715644800000,
-        "rank": 68
+        "rank": 69
     },
     {
         "name": "Anish Anand Pujari",
@@ -677,7 +687,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715644800000,
-        "rank": 69
+        "rank": 70
     },
     {
         "name": "Tanvi Bhoyar",
@@ -687,7 +697,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715644800000,
-        "rank": 70
+        "rank": 71
     },
     {
         "name": "Mrunal Mahesh Tambat",
@@ -697,7 +707,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715731200000,
-        "rank": 71
+        "rank": 72
     },
     {
         "name": "Saket Shashikant Rahate",
@@ -707,7 +717,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715731200000,
-        "rank": 72
+        "rank": 73
     },
     {
         "name": "Himanshu Vinod Madan",
@@ -717,7 +727,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715731200000,
-        "rank": 73
+        "rank": 74
     },
     {
         "name": "Hariom Nabira",
@@ -727,7 +737,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "pink",
         "latestSkill": 1715817600000,
-        "rank": 74
+        "rank": 75
     },
     {
         "name": "Prathmesh Hande",
@@ -737,16 +747,6 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715904000000,
-        "rank": 75
-    },
-    {
-        "name": "Swarali Waman Fendar",
-        "skills": 2,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "trackThree": 1,
-        "color": "pink",
-        "latestSkill": 1716249600000,
         "rank": 76
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Thursday, May 23, 2024 at 7:57 AM"
+export const updateTime =  "Thursday, May 23, 2024 at 8:43 AM"
