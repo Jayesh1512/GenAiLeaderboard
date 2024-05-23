@@ -595,6 +595,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Gemini for Cloud Architects",
+                    "badgeID": "9138968",
+                    "badgeDate": 1716422400000
+                },
+                {
+                    "badgeName": "Gemini for Application Developers",
+                    "badgeID": "9138958",
+                    "badgeDate": 1716422400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9072530",
                     "badgeDate": 1716076800000
@@ -3021,14 +3031,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9139846",
+                    "badgeDate": 1716422400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9135379",
                     "badgeDate": 1716422400000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -3545,14 +3560,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9139385",
+                    "badgeDate": 1716422400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9136302",
                     "badgeDate": 1716422400000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -5095,5 +5115,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 23, 2024 at 6:43 PM"
+    "time": "Thursday, May 23, 2024 at 7:41 PM"
 }
