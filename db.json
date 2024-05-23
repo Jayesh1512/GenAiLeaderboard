@@ -3031,6 +3031,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9141991",
+                    "badgeDate": 1716422400000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9139846",
                     "badgeDate": 1716422400000
@@ -3041,10 +3046,10 @@
                     "badgeDate": 1716422400000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Uttkarsh Shankarrao Khanke",
@@ -3560,6 +3565,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9141457",
+                    "badgeDate": 1716422400000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9141353",
+                    "badgeDate": 1716422400000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9139385",
                     "badgeDate": 1716422400000
@@ -3570,10 +3585,10 @@
                     "badgeDate": 1716422400000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Tejas Singh",
@@ -5115,5 +5130,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 23, 2024 at 8:42 PM"
+    "time": "Thursday, May 23, 2024 at 9:45 PM"
 }
