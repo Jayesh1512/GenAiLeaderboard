@@ -3019,9 +3019,15 @@
             "name": "Salmaan Irfan Ahmad Khan",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/97a4fe44-17db-4137-9072-ebce22909d4e",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9135379",
+                    "badgeDate": 1716422400000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -5083,5 +5089,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 23, 2024 at 2:44 PM"
+    "time": "Thursday, May 23, 2024 at 3:45 PM"
 }
