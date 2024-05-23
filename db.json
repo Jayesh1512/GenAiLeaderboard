@@ -1185,6 +1185,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Use Functions, Formulas, and Charts in Google Sheets",
+                    "badgeID": "9144891",
+                    "badgeDate": 1716422400000
+                },
+                {
                     "badgeName": "Implement Load Balancing on Compute Engine",
                     "badgeID": "9144317",
                     "badgeDate": 1716422400000
@@ -4355,14 +4360,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9144828",
+                    "badgeDate": 1716422400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9125267",
                     "badgeDate": 1716336000000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -5140,5 +5150,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 24, 2024 at 12:41 AM"
+    "time": "Friday, May 24, 2024 at 1:43 AM"
 }
