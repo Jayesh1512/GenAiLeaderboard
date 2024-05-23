@@ -3543,9 +3543,15 @@
             "name": "Nehanshu Yograj Gaidhani",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/59b1be72-b705-430c-a7aa-b1b1594e7e20",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9136302",
+                    "badgeDate": 1716422400000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -5089,5 +5095,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 23, 2024 at 3:45 PM"
+    "time": "Thursday, May 23, 2024 at 4:43 PM"
 }
