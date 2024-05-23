@@ -1185,6 +1185,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Implement Load Balancing on Compute Engine",
+                    "badgeID": "9144317",
+                    "badgeDate": 1716422400000
+                },
+                {
                     "badgeName": "The Arcade Health Tech",
                     "badgeID": "9126140",
                     "badgeDate": 1716336000000
@@ -5135,5 +5140,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 23, 2024 at 11:45 PM"
+    "time": "Friday, May 24, 2024 at 12:41 AM"
 }
