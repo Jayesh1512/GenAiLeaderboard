@@ -595,6 +595,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Gemini for Security Engineers",
+                    "badgeID": "9159227",
+                    "badgeDate": 1716508800000
+                },
+                {
+                    "badgeName": "Gemini for Data Scientists and Analysts",
+                    "badgeID": "9158917",
+                    "badgeDate": 1716508800000
+                },
+                {
                     "badgeName": "Gemini for Cloud Architects",
                     "badgeID": "9138968",
                     "badgeDate": 1716422400000
@@ -1189,6 +1199,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/aecbfae4-1ce2-4d32-9f7f-5035ca544afe",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "Manage Kubernetes in Google Cloud",
+                    "badgeID": "9159409",
+                    "badgeDate": 1716508800000
+                },
                 {
                     "badgeName": "Mitigate Threats and Vulnerabilities with Security Command Center",
                     "badgeID": "9155974",
@@ -4428,6 +4443,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9159534",
+                    "badgeDate": 1716508800000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9144828",
                     "badgeDate": 1716422400000
@@ -4438,10 +4458,10 @@
                     "badgeDate": 1716336000000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Mangesh Thale",
@@ -5218,5 +5238,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 24, 2024 at 9:43 PM"
+    "time": "Friday, May 24, 2024 at 10:41 PM"
 }
