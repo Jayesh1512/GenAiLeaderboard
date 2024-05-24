@@ -595,6 +595,41 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Create Image Captioning Models",
+                    "badgeID": "9160231",
+                    "badgeDate": 1716508800000
+                },
+                {
+                    "badgeName": "Transformer Models and BERT Model",
+                    "badgeID": "9160194",
+                    "badgeDate": 1716508800000
+                },
+                {
+                    "badgeName": "Encoder-Decoder Architecture",
+                    "badgeID": "9160119",
+                    "badgeDate": 1716508800000
+                },
+                {
+                    "badgeName": "Attention Mechanism",
+                    "badgeID": "9160083",
+                    "badgeDate": 1716508800000
+                },
+                {
+                    "badgeName": "Introduction to Image Generation",
+                    "badgeID": "9160010",
+                    "badgeDate": 1716508800000
+                },
+                {
+                    "badgeName": "Gemini for end-to-end SDLC",
+                    "badgeID": "9159896",
+                    "badgeDate": 1716508800000
+                },
+                {
+                    "badgeName": "Gemini for DevOps Engineers",
+                    "badgeID": "9159891",
+                    "badgeDate": 1716508800000
+                },
+                {
                     "badgeName": "Gemini for Security Engineers",
                     "badgeID": "9159227",
                     "badgeDate": 1716508800000
@@ -1199,6 +1234,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/aecbfae4-1ce2-4d32-9f7f-5035ca544afe",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "Secure BigLake Data",
+                    "badgeID": "9160444",
+                    "badgeDate": 1716508800000
+                },
                 {
                     "badgeName": "Manage Kubernetes in Google Cloud",
                     "badgeID": "9159409",
@@ -4443,6 +4483,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9159751",
+                    "badgeDate": 1716508800000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "9159534",
                     "badgeDate": 1716508800000
@@ -4564,6 +4609,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/3b11c77e-d06a-4647-842b-7cfe0df18b23",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "The Arcade Trivia May 2024 Week 3",
+                    "badgeID": "9159797",
+                    "badgeDate": 1716508800000
+                },
                 {
                     "badgeName": "Level 2: Data with BigQuery",
                     "badgeID": "9100438",
@@ -5238,5 +5288,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 24, 2024 at 10:41 PM"
+    "time": "Friday, May 24, 2024 at 11:45 PM"
 }
