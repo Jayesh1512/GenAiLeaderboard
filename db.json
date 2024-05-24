@@ -2566,6 +2566,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Gemini for Data Scientists and Analysts",
+                    "badgeID": "9154121",
+                    "badgeDate": 1716508800000
+                },
+                {
                     "badgeName": "Gemini for end-to-end SDLC",
                     "badgeID": "9110672",
                     "badgeDate": 1716249600000
@@ -4344,9 +4349,15 @@
             "name": "Sahil Anant Sonar",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/5b8a4745-f961-43a4-b704-85b4b31184f1",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9154937",
+                    "badgeDate": 1716508800000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -5176,5 +5187,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 24, 2024 at 4:43 PM"
+    "time": "Friday, May 24, 2024 at 5:48 PM"
 }
