@@ -1149,15 +1149,20 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9156323",
+                    "badgeDate": 1716508800000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9006127",
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Himanshu Prakash Balani",
@@ -1184,6 +1189,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/aecbfae4-1ce2-4d32-9f7f-5035ca544afe",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "Mitigate Threats and Vulnerabilities with Security Command Center",
+                    "badgeID": "9155974",
+                    "badgeDate": 1716508800000
+                },
                 {
                     "badgeName": "Build a Data Warehouse with BigQuery",
                     "badgeID": "9155115",
@@ -5192,5 +5202,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 24, 2024 at 6:44 PM"
+    "time": "Friday, May 24, 2024 at 7:43 PM"
 }
