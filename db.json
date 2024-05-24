@@ -2322,9 +2322,15 @@
             "name": "Harsh Dakhare",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/b921ba4f-f2fd-4fb6-93d5-fd1b0e21f2bb",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9162079",
+                    "badgeDate": 1716508800000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -4457,6 +4463,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9162288",
+                    "badgeDate": 1716508800000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9162243",
+                    "badgeDate": 1716508800000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9161771",
                     "badgeDate": 1716508800000
@@ -4467,10 +4483,10 @@
                     "badgeDate": 1716508800000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Mukesh Ahirwar",
@@ -5313,5 +5329,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 25, 2024 at 1:43 AM"
+    "time": "Saturday, May 25, 2024 at 2:42 AM"
 }
