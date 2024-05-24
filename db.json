@@ -1185,6 +1185,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Build a Data Warehouse with BigQuery",
+                    "badgeID": "9155115",
+                    "badgeDate": 1716508800000
+                },
+                {
                     "badgeName": "Get Started with Google Workspace Tools",
                     "badgeID": "9145653",
                     "badgeDate": 1716422400000
@@ -5187,5 +5192,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 24, 2024 at 5:48 PM"
+    "time": "Friday, May 24, 2024 at 6:44 PM"
 }

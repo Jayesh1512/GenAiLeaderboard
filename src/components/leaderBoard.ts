@@ -590,7 +590,7 @@ export const leaderBoardData = [
         "rank": 60
     },
     {
-        "name": "Aashi Yashpal Kohad",
+        "name": "Salmaan Irfan Ahmad Khan",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -600,7 +600,7 @@ export const leaderBoardData = [
         "rank": 61
     },
     {
-        "name": "Salmaan Irfan Ahmad Khan",
+        "name": "Nehanshu Yograj Gaidhani",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -610,13 +610,13 @@ export const leaderBoardData = [
         "rank": 62
     },
     {
-        "name": "Nehanshu Yograj Gaidhani",
+        "name": "Aashi Yashpal Kohad",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1716422400000,
+        "latestSkill": 1716508800000,
         "rank": 63
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, May 24, 2024 at 5:48 PM"
+export const updateTime =  "Friday, May 24, 2024 at 6:44 PM"
