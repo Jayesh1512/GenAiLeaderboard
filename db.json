@@ -2801,6 +2801,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia May 2024 Week 4",
+                    "badgeID": "9151780",
+                    "badgeDate": 1716508800000
+                },
+                {
+                    "badgeName": "The Arcade Trivia May 2024 Week 3",
+                    "badgeID": "9151392",
+                    "badgeDate": 1716508800000
+                },
+                {
                     "badgeName": "The Arcade Trivia May 2024 Week 2",
                     "badgeID": "8968364",
                     "badgeDate": 1715385600000
@@ -4056,11 +4066,17 @@
             "name": "Juilee Lambe",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/cb0ee1af-2f65-4d65-b7c1-d720dc439b99",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9151848",
+                    "badgeDate": 1716508800000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "soham kathalay",
@@ -5155,5 +5171,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 24, 2024 at 1:44 PM"
+    "time": "Friday, May 24, 2024 at 2:43 PM"
 }
