@@ -1439,6 +1439,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9158210",
+                    "badgeDate": 1716508800000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9158104",
+                    "badgeDate": 1716508800000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9005259",
                     "badgeDate": 1715644800000
@@ -1449,10 +1459,10 @@
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Harshal Borkar",
@@ -4158,11 +4168,17 @@
             "name": "Sundram Kumar",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/872457b4-578f-4ef6-a4e5-3f99ce150c60",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9157950",
+                    "badgeDate": 1716508800000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Ashish Chakradhar Kamble",
@@ -5202,5 +5218,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 24, 2024 at 8:44 PM"
+    "time": "Friday, May 24, 2024 at 9:43 PM"
 }
