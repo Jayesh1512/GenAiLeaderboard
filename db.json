@@ -595,6 +595,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Vector Search and Embeddings",
+                    "badgeID": "9169644",
+                    "badgeDate": 1716595200000
+                },
+                {
                     "badgeName": "Introduction to Vertex AI Studio",
                     "badgeID": "9168257",
                     "badgeDate": 1716595200000
@@ -5354,5 +5359,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 25, 2024 at 5:48 PM"
+    "time": "Saturday, May 25, 2024 at 6:42 PM"
 }
