@@ -595,6 +595,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Responsible AI for Developers: Fairness &amp; Bias",
+                    "badgeID": "9169884",
+                    "badgeDate": 1716595200000
+                },
+                {
                     "badgeName": "Vector Search and Embeddings",
                     "badgeID": "9169644",
                     "badgeDate": 1716595200000
@@ -5359,5 +5364,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 25, 2024 at 6:42 PM"
+    "time": "Saturday, May 25, 2024 at 7:41 PM"
 }
