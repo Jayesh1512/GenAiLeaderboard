@@ -4666,6 +4666,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9174329",
+                    "badgeDate": 1716595200000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "9030751",
                     "badgeDate": 1715731200000
@@ -4681,8 +4686,8 @@
                     "badgeDate": 1715731200000
                 }
             ],
-            "skills": 2,
-            "trackOne": 0,
+            "skills": 3,
+            "trackOne": 1,
             "trackTwo": 1,
             "trackThree": 1
         },
@@ -5380,5 +5385,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 26, 2024 at 12:41 AM"
+    "time": "Sunday, May 26, 2024 at 1:42 AM"
 }
