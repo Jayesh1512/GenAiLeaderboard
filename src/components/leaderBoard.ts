@@ -600,7 +600,7 @@ export const leaderBoardData = [
         "rank": 61
     },
     {
-        "name": "Aashi Yashpal Kohad",
+        "name": "Vivek Radheshyam Katre",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -610,7 +610,7 @@ export const leaderBoardData = [
         "rank": 62
     },
     {
-        "name": "Vivek Radheshyam Katre",
+        "name": "Ayush Askar",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -620,7 +620,7 @@ export const leaderBoardData = [
         "rank": 63
     },
     {
-        "name": "Ayush Askar",
+        "name": "Pratyush Bhatt",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -630,7 +630,7 @@ export const leaderBoardData = [
         "rank": 64
     },
     {
-        "name": "Pratyush Bhatt",
+        "name": "Sundram Kumar",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -640,7 +640,7 @@ export const leaderBoardData = [
         "rank": 65
     },
     {
-        "name": "Sundram Kumar",
+        "name": "Sahil Anant Sonar",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -650,7 +650,7 @@ export const leaderBoardData = [
         "rank": 66
     },
     {
-        "name": "Sahil Anant Sonar",
+        "name": "Harsh Vardhan",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -660,7 +660,7 @@ export const leaderBoardData = [
         "rank": 67
     },
     {
-        "name": "Harsh Vardhan",
+        "name": "Sachin Rakesh Yadav",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -670,13 +670,13 @@ export const leaderBoardData = [
         "rank": 68
     },
     {
-        "name": "Sachin Rakesh Yadav",
+        "name": "Aashi Yashpal Kohad",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1716508800000,
+        "latestSkill": 1716595200000,
         "rank": 69
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Saturday, May 25, 2024 at 9:43 AM"
+export const updateTime =  "Saturday, May 25, 2024 at 10:43 AM"

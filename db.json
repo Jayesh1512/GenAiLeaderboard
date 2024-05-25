@@ -1235,6 +1235,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Monitoring in Google Cloud",
+                    "badgeID": "9164251",
+                    "badgeDate": 1716595200000
+                },
+                {
                     "badgeName": "Tag and Discover BigLake Data",
                     "badgeID": "9160913",
                     "badgeDate": 1716508800000
@@ -5329,5 +5334,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 25, 2024 at 9:43 AM"
+    "time": "Saturday, May 25, 2024 at 10:43 AM"
 }
