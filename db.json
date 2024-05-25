@@ -1256,6 +1256,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Get Started with Looker",
+                    "badgeID": "9173091",
+                    "badgeDate": 1716595200000
+                },
+                {
                     "badgeName": "Monitoring in Google Cloud",
                     "badgeID": "9164251",
                     "badgeDate": 1716595200000
@@ -5370,5 +5375,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 25, 2024 at 10:42 PM"
+    "time": "Saturday, May 25, 2024 at 11:44 PM"
 }
