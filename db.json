@@ -547,9 +547,15 @@
             "name": "Rohit Garg",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/c8cb2389-3323-47d1-8df8-cb01bdb8a573",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9170757",
+                    "badgeDate": 1716595200000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -5364,5 +5370,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 25, 2024 at 7:41 PM"
+    "time": "Saturday, May 25, 2024 at 8:41 PM"
 }
