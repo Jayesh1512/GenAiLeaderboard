@@ -3084,9 +3084,15 @@
             "name": "Anuj Sanjay Singh",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/7d817f92-8f95-4c3a-9b5a-aa5f6af92661",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9175341",
+                    "badgeDate": 1716595200000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -5385,5 +5391,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 26, 2024 at 3:43 AM"
+    "time": "Sunday, May 26, 2024 at 4:42 AM"
 }
