@@ -595,6 +595,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Vertex AI Studio",
+                    "badgeID": "9168257",
+                    "badgeDate": 1716595200000
+                },
+                {
                     "badgeName": "Create Image Captioning Models",
                     "badgeID": "9160231",
                     "badgeDate": 1716508800000
@@ -2666,6 +2671,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/38863f26-4f63-43f1-a8a8-a798f5ae6636",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "Google Security Operations - Fundamentals",
+                    "badgeID": "9168232",
+                    "badgeDate": 1716595200000
+                },
                 {
                     "badgeName": "Gemini for Data Scientists and Analysts",
                     "badgeID": "9154121",
@@ -5138,13 +5148,18 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9167746",
+                    "badgeDate": 1716595200000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "9015608",
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 1
         },
@@ -5339,5 +5354,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Saturday, May 25, 2024 at 3:43 PM"
+    "time": "Saturday, May 25, 2024 at 4:42 PM"
 }
