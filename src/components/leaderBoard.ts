@@ -660,17 +660,17 @@ export const leaderBoardData = [
         "rank": 67
     },
     {
-        "name": "Sachin Rakesh Yadav",
+        "name": "Aashi Yashpal Kohad",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1716508800000,
+        "latestSkill": 1716595200000,
         "rank": 68
     },
     {
-        "name": "Aashi Yashpal Kohad",
+        "name": "Sachin Rakesh Yadav",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Saturday, May 25, 2024 at 12:41 PM"
+export const updateTime =  "Saturday, May 25, 2024 at 1:45 PM"
