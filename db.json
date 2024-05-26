@@ -606,6 +606,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Gemini for Network Engineers",
+                    "badgeID": "9179798",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Responsible AI for Developers: Fairness &amp; Bias",
                     "badgeID": "9169884",
                     "badgeDate": 1716595200000
@@ -5407,5 +5412,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 26, 2024 at 2:42 PM"
+    "time": "Sunday, May 26, 2024 at 3:43 PM"
 }

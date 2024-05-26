@@ -1050,7 +1050,7 @@ export const leaderBoardData = [
         "rank": 106
     },
     {
-        "name": "Sanket Suryawanshi",
+        "name": "Anuj Sanjay Singh",
         "skills": 1,
         "trackOne": 1,
         "trackTwo": 0,
@@ -1060,13 +1060,13 @@ export const leaderBoardData = [
         "rank": 107
     },
     {
-        "name": "Anuj Sanjay Singh",
+        "name": "Sanket Suryawanshi",
         "skills": 1,
         "trackOne": 1,
         "trackTwo": 0,
         "trackThree": 0,
         "color": "blue",
-        "latestSkill": 1716595200000,
+        "latestSkill": 1716681600000,
         "rank": 108
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Sunday, May 26, 2024 at 2:42 PM"
+export const updateTime =  "Sunday, May 26, 2024 at 3:43 PM"
