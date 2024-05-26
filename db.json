@@ -4754,6 +4754,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Responsible AI",
+                    "badgeID": "9182385",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "The Arcade Trivia May 2024 Week 4",
                     "badgeID": "9166103",
                     "badgeDate": 1716595200000
@@ -5442,5 +5447,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 26, 2024 at 5:48 PM"
+    "time": "Sunday, May 26, 2024 at 6:42 PM"
 }
