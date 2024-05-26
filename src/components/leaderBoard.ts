@@ -880,6 +880,16 @@ export const leaderBoardData = [
         "rank": 89
     },
     {
+        "name": "Kunal Mohare",
+        "skills": 2,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "trackThree": 1,
+        "color": "pink",
+        "latestSkill": 1716681600000,
+        "rank": 90
+    },
+    {
         "name": "samidha halmare",
         "skills": 1,
         "trackOne": 0,
@@ -887,16 +897,6 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "blue",
         "latestSkill": 1714608000000,
-        "rank": 90
-    },
-    {
-        "name": "Kunal Mohare",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "trackThree": 0,
-        "color": "blue",
-        "latestSkill": 1715385600000,
         "rank": 91
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Monday, May 27, 2024 at 12:41 AM"
+export const updateTime =  "Monday, May 27, 2024 at 1:42 AM"

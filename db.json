@@ -3141,6 +3141,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9187348",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "9187257",
                     "badgeDate": 1716681600000
@@ -4250,6 +4255,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9187662",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8973850",
                     "badgeDate": 1715385600000
@@ -4260,10 +4270,10 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Apurve Trivedi",
@@ -5492,5 +5502,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 27, 2024 at 12:41 AM"
+    "time": "Monday, May 27, 2024 at 1:42 AM"
 }
