@@ -2442,6 +2442,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9183909",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Gemini for Cloud Architects",
                     "badgeID": "9020233",
                     "badgeDate": 1715731200000
@@ -2467,8 +2472,8 @@
                     "badgeDate": 1715731200000
                 }
             ],
-            "skills": 0,
-            "trackOne": 0,
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -5457,5 +5462,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 26, 2024 at 7:41 PM"
+    "time": "Sunday, May 26, 2024 at 8:44 PM"
 }
