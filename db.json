@@ -1483,6 +1483,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9181287",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8947723",
                     "badgeDate": 1715212800000
@@ -1493,9 +1498,9 @@
                     "badgeDate": 1715212800000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 0,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -3096,14 +3101,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9180757",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9175341",
                     "badgeDate": 1716595200000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -4622,6 +4632,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9181385",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9179815",
                     "badgeDate": 1716681600000
@@ -4632,10 +4647,10 @@
                     "badgeDate": 1716681600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Arvind Lohar",
@@ -5412,5 +5427,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 26, 2024 at 3:43 PM"
+    "time": "Sunday, May 26, 2024 at 4:41 PM"
 }
