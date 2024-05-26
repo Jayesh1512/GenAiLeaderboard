@@ -189,15 +189,20 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9178339",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8969486",
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Sujal Trivedi",
@@ -5391,5 +5396,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 26, 2024 at 12:43 PM"
+    "time": "Sunday, May 26, 2024 at 1:44 PM"
 }
