@@ -4615,10 +4615,21 @@
             "name": "Pranay Jain",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/9c332199-e69d-43b0-bcb8-d804858bf87a",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9179815",
+                    "badgeDate": 1716681600000
+                },
+                {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9179622",
+                    "badgeDate": 1716681600000
+                }
+            ],
+            "skills": 2,
+            "trackOne": 1,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -5396,5 +5407,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 26, 2024 at 1:44 PM"
+    "time": "Sunday, May 26, 2024 at 2:42 PM"
 }
