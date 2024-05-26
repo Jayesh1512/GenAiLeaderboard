@@ -1266,6 +1266,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Store, Process, and Manage Data on Google Cloud - Console",
+                    "badgeID": "9186545",
+                    "badgeDate": 1716681600000
+                },
+                {
+                    "badgeName": "Analyze BigQuery Data in Connected Sheets",
+                    "badgeID": "9186231",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Monitor and Manage Google Cloud Resources",
                     "badgeID": "9183287",
                     "badgeDate": 1716681600000
@@ -5158,6 +5168,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia May 2024 Week 4",
+                    "badgeID": "9186733",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "The Arcade Trivia May 2024 Week 3",
                     "badgeID": "9185718",
                     "badgeDate": 1716681600000
@@ -5467,5 +5482,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 26, 2024 at 10:41 PM"
+    "time": "Sunday, May 26, 2024 at 11:44 PM"
 }
