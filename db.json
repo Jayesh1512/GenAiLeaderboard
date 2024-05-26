@@ -411,6 +411,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Configure Service Accounts and IAM Roles for Google Cloud",
+                    "badgeID": "9187944",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Level 1: Security and Compliance",
                     "badgeID": "9186884",
                     "badgeDate": 1716681600000
@@ -5502,5 +5507,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 27, 2024 at 1:42 AM"
+    "time": "Monday, May 27, 2024 at 2:41 AM"
 }
