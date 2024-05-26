@@ -411,6 +411,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 1: Security and Compliance",
+                    "badgeID": "9186884",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9050625",
                     "badgeDate": 1715904000000
@@ -3136,6 +3141,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9187257",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9180757",
                     "badgeDate": 1716681600000
@@ -3146,10 +3156,10 @@
                     "badgeDate": 1716595200000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Shrut Jaiswal",
@@ -5482,5 +5492,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 26, 2024 at 11:44 PM"
+    "time": "Monday, May 27, 2024 at 12:41 AM"
 }
