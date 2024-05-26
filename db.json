@@ -1266,6 +1266,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Monitor and Manage Google Cloud Resources",
+                    "badgeID": "9183287",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Get Started with Looker",
                     "badgeID": "9173091",
                     "badgeDate": 1716595200000
@@ -1483,6 +1488,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9183503",
+                    "badgeDate": 1716681600000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9181287",
                     "badgeDate": 1716681600000
@@ -1498,8 +1508,8 @@
                     "badgeDate": 1715212800000
                 }
             ],
-            "skills": 2,
-            "trackOne": 0,
+            "skills": 3,
+            "trackOne": 1,
             "trackTwo": 1,
             "trackThree": 1
         },
@@ -5447,5 +5457,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Sunday, May 26, 2024 at 6:42 PM"
+    "time": "Sunday, May 26, 2024 at 7:41 PM"
 }
