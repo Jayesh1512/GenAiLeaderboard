@@ -1744,6 +1744,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9195607",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9118866",
                     "badgeDate": 1716336000000
@@ -1754,8 +1759,8 @@
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 2,
-            "trackOne": 0,
+            "skills": 3,
+            "trackOne": 1,
             "trackTwo": 1,
             "trackThree": 1
         },
@@ -4291,6 +4296,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9195963",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "9187662",
                     "badgeDate": 1716681600000
@@ -4306,9 +4316,9 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -5548,5 +5558,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 27, 2024 at 3:44 PM"
+    "time": "Monday, May 27, 2024 at 4:42 PM"
 }

@@ -730,7 +730,7 @@ export const leaderBoardData = [
         "rank": 74
     },
     {
-        "name": "Sachin Rakesh Yadav",
+        "name": "Yash Sachin Mishra",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -740,7 +740,7 @@ export const leaderBoardData = [
         "rank": 75
     },
     {
-        "name": "Samiksha Agrawal",
+        "name": "Kunal Mohare",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -750,6 +750,26 @@ export const leaderBoardData = [
         "rank": 76
     },
     {
+        "name": "Sachin Rakesh Yadav",
+        "skills": 3,
+        "trackOne": 1,
+        "trackTwo": 1,
+        "trackThree": 1,
+        "color": "green",
+        "latestSkill": 1716768000000,
+        "rank": 77
+    },
+    {
+        "name": "Samiksha Agrawal",
+        "skills": 3,
+        "trackOne": 1,
+        "trackTwo": 1,
+        "trackThree": 1,
+        "color": "green",
+        "latestSkill": 1716768000000,
+        "rank": 78
+    },
+    {
         "name": "Atharva Werulkar",
         "skills": 2,
         "trackOne": 1,
@@ -757,7 +777,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "pink",
         "latestSkill": 1715385600000,
-        "rank": 77
+        "rank": 79
     },
     {
         "name": "Piyush Sharma",
@@ -767,7 +787,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "pink",
         "latestSkill": 1715472000000,
-        "rank": 78
+        "rank": 80
     },
     {
         "name": "sanika raut",
@@ -777,7 +797,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715558400000,
-        "rank": 79
+        "rank": 81
     },
     {
         "name": "Anish Anand Pujari",
@@ -787,7 +807,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715644800000,
-        "rank": 80
+        "rank": 82
     },
     {
         "name": "Tanvi Bhoyar",
@@ -797,7 +817,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715644800000,
-        "rank": 81
+        "rank": 83
     },
     {
         "name": "Himanshu Vinod Madan",
@@ -807,7 +827,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715731200000,
-        "rank": 82
+        "rank": 84
     },
     {
         "name": "Hariom Nabira",
@@ -817,7 +837,7 @@ export const leaderBoardData = [
         "trackThree": 0,
         "color": "pink",
         "latestSkill": 1715817600000,
-        "rank": 83
+        "rank": 85
     },
     {
         "name": "Prathmesh Hande",
@@ -827,17 +847,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1715904000000,
-        "rank": 84
-    },
-    {
-        "name": "Yash Sachin Mishra",
-        "skills": 2,
-        "trackOne": 0,
-        "trackTwo": 1,
-        "trackThree": 1,
-        "color": "pink",
-        "latestSkill": 1716336000000,
-        "rank": 85
+        "rank": 86
     },
     {
         "name": "Akshay Nandlal Mundle",
@@ -847,7 +857,7 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1716336000000,
-        "rank": 86
+        "rank": 87
     },
     {
         "name": "Akshay Mundale",
@@ -857,20 +867,10 @@ export const leaderBoardData = [
         "trackThree": 1,
         "color": "pink",
         "latestSkill": 1716595200000,
-        "rank": 87
-    },
-    {
-        "name": "Prathamesh Prashant Kurekar",
-        "skills": 2,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "trackThree": 1,
-        "color": "pink",
-        "latestSkill": 1716681600000,
         "rank": 88
     },
     {
-        "name": "Kunal Mohare",
+        "name": "Prathamesh Prashant Kurekar",
         "skills": 2,
         "trackOne": 1,
         "trackTwo": 0,
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Monday, May 27, 2024 at 3:44 PM"
+export const updateTime =  "Monday, May 27, 2024 at 4:42 PM"
