@@ -720,7 +720,7 @@ export const leaderBoardData = [
         "rank": 73
     },
     {
-        "name": "Sachin Rakesh Yadav",
+        "name": "Dev Hotchandani",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -730,13 +730,13 @@ export const leaderBoardData = [
         "rank": 74
     },
     {
-        "name": "Dev Hotchandani",
+        "name": "Sachin Rakesh Yadav",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1716681600000,
+        "latestSkill": 1716768000000,
         "rank": 75
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Monday, May 27, 2024 at 2:44 PM"
+export const updateTime =  "Monday, May 27, 2024 at 3:44 PM"
