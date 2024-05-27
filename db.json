@@ -416,6 +416,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Secure BigLake Data",
+                    "badgeID": "9204843",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Configure Service Accounts and IAM Roles for Google Cloud",
                     "badgeID": "9187944",
                     "badgeDate": 1716681600000
@@ -2974,6 +2979,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9205140",
+                    "badgeDate": 1716768000000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9205058",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9204261",
                     "badgeDate": 1716768000000
@@ -2984,10 +2999,10 @@
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "DIXITA HAWELIKAR",
@@ -5712,5 +5727,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 28, 2024 at 12:42 AM"
+    "time": "Tuesday, May 28, 2024 at 1:42 AM"
 }
