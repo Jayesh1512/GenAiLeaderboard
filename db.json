@@ -189,6 +189,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9196122",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "9178339",
                     "badgeDate": 1716681600000
@@ -199,9 +204,9 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -1127,9 +1132,15 @@
             "name": "Aryan Paradkar",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/537bf259-d3f1-4994-a4e7-9b5f11a241d0",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9196872",
+                    "badgeDate": 1716768000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -2547,9 +2558,15 @@
             "name": "Akhilesh Bonde",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/a6559727-0e0b-4c0f-b9f4-e30466c92604",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9196787",
+                    "badgeDate": 1716768000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -5326,6 +5343,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9196662",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "9010588",
                     "badgeDate": 1715644800000
@@ -5341,9 +5363,9 @@
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -5558,5 +5580,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 27, 2024 at 4:42 PM"
+    "time": "Monday, May 27, 2024 at 5:49 PM"
 }
