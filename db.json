@@ -2158,11 +2158,17 @@
             "name": "Kalash Jaiswal",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/833829ef-cf3d-4016-b134-0b7ee8e6f8b4",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9204089",
+                    "badgeDate": 1716768000000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Vaishnavi Rajesh Agrawal",
@@ -2968,14 +2974,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9204261",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9007244",
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -3983,6 +3994,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9203777",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9197536",
                     "badgeDate": 1716768000000
@@ -4003,9 +4019,9 @@
                     "badgeDate": 1715558400000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -4131,6 +4147,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9204610",
+                    "badgeDate": 1716768000000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9204544",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9203738",
                     "badgeDate": 1716768000000
@@ -4141,10 +4167,10 @@
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Nilay Hansraj Chugh",
@@ -5686,5 +5712,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 27, 2024 at 11:45 PM"
+    "time": "Tuesday, May 28, 2024 at 12:42 AM"
 }
