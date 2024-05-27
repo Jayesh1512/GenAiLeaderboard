@@ -646,6 +646,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9203174",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Machine Learning Operations (MLOps)  for Generative AI",
                     "badgeID": "9192516",
                     "badgeDate": 1716768000000
@@ -756,9 +761,9 @@
                     "badgeDate": 1715817600000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -2124,6 +2129,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9202855",
+                    "badgeDate": 1716768000000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9202764",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8974263",
                     "badgeDate": 1715385600000
@@ -2134,10 +2149,10 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Kalash Jaiswal",
@@ -4116,14 +4131,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9203738",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9007967",
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -5666,5 +5686,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Monday, May 27, 2024 at 10:41 PM"
+    "time": "Monday, May 27, 2024 at 11:45 PM"
 }
