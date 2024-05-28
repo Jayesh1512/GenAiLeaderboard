@@ -308,14 +308,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9217168",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9053305",
                     "badgeDate": 1715904000000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -630,6 +635,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9217314",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "The Arcade Health Tech",
                     "badgeID": "9211454",
                     "badgeDate": 1716854400000
@@ -650,9 +660,9 @@
                     "badgeDate": 1715558400000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -3096,6 +3106,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/dec18f79-0d9e-435b-bcb1-9771fd03d7e0",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9216782",
+                    "badgeDate": 1716854400000
+                },
                 {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "9216662",
@@ -5841,5 +5856,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 28, 2024 at 5:49 PM"
+    "time": "Tuesday, May 28, 2024 at 6:44 PM"
 }
