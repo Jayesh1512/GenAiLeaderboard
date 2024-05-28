@@ -1864,9 +1864,15 @@
             "name": "Kunal W. Pusdekar",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/c8d226a0-c163-47d8-87ec-de649d673be2",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9215727",
+                    "badgeDate": 1716854400000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -2087,14 +2093,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9215697",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9214038",
                     "badgeDate": 1716854400000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -3084,11 +3095,17 @@
             "name": "Vedika Mahendra Khiwansara",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/dec18f79-0d9e-435b-bcb1-9771fd03d7e0",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9216662",
+                    "badgeDate": 1716854400000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Prathmesh Agrawal",
@@ -5824,5 +5841,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 28, 2024 at 4:41 PM"
+    "time": "Tuesday, May 28, 2024 at 5:49 PM"
 }
