@@ -1179,6 +1179,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9210894",
+                    "badgeDate": 1716854400000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9210714",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9205758",
                     "badgeDate": 1716768000000
@@ -1189,10 +1199,10 @@
                     "badgeDate": 1716768000000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Divyani Raut",
@@ -2190,14 +2200,19 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9210158",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "9204089",
                     "badgeDate": 1716768000000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 0,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -5772,5 +5787,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 28, 2024 at 11:46 AM"
+    "time": "Tuesday, May 28, 2024 at 12:44 PM"
 }
