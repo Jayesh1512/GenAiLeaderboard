@@ -3178,6 +3178,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 2: Data with BigQuery",
+                    "badgeID": "9208930",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "The Arcade Trivia May 2024 Week 4",
                     "badgeID": "9151780",
                     "badgeDate": 1716508800000
@@ -5619,6 +5624,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9209005",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Registries",
                     "badgeID": "9001454",
                     "badgeDate": 1715558400000
@@ -5634,9 +5644,9 @@
                     "badgeDate": 1715472000000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -5747,5 +5757,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 28, 2024 at 9:47 AM"
+    "time": "Tuesday, May 28, 2024 at 10:43 AM"
 }
