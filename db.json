@@ -1949,6 +1949,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9209940",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9193747",
                     "badgeDate": 1716768000000
@@ -1964,9 +1969,9 @@
                     "badgeDate": 1716768000000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -4034,6 +4039,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9209265",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9203777",
                     "badgeDate": 1716768000000
@@ -4059,10 +4069,10 @@
                     "badgeDate": 1715558400000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Nishant Ganesh Katkad",
@@ -4151,6 +4161,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9209521",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "9016551",
                     "badgeDate": 1715644800000
@@ -4166,9 +4181,9 @@
                     "badgeDate": 1715644800000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 1
         },
         {
@@ -5757,5 +5772,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 28, 2024 at 10:43 AM"
+    "time": "Tuesday, May 28, 2024 at 11:46 AM"
 }
