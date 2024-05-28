@@ -5341,9 +5341,15 @@
             "name": "Amit Vishwakarma",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/2499627e-fa8c-49a6-95c7-96bb34249a54",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9214409",
+                    "badgeDate": 1716854400000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -5818,5 +5824,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 28, 2024 at 3:44 PM"
+    "time": "Tuesday, May 28, 2024 at 4:41 PM"
 }
