@@ -975,6 +975,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9207920",
+                    "badgeDate": 1716768000000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "8987492",
                     "badgeDate": 1715472000000
@@ -990,10 +995,10 @@
                     "badgeDate": 1715385600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 1,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Ayush Goyal",
@@ -5742,5 +5747,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 28, 2024 at 7:58 AM"
+    "time": "Tuesday, May 28, 2024 at 8:43 AM"
 }
