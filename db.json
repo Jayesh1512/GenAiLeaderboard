@@ -426,6 +426,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Perform Predictive Data Analysis in BigQuery",
+                    "badgeID": "9221185",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "Build a Data Warehouse with BigQuery",
                     "badgeID": "9220610",
                     "badgeDate": 1716854400000
@@ -5871,5 +5876,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 28, 2024 at 9:44 PM"
+    "time": "Tuesday, May 28, 2024 at 10:41 PM"
 }
