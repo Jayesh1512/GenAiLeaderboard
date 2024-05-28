@@ -426,6 +426,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Build a Data Warehouse with BigQuery",
+                    "badgeID": "9220610",
+                    "badgeDate": 1716854400000
+                },
+                {
+                    "badgeName": "Level 2: Data with BigQuery",
+                    "badgeID": "9220223",
+                    "badgeDate": 1716854400000
+                },
+                {
                     "badgeName": "Mitigate Threats and Vulnerabilities with Security Command Center",
                     "badgeID": "9205556",
                     "badgeDate": 1716768000000
@@ -5861,5 +5871,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, May 28, 2024 at 8:42 PM"
+    "time": "Tuesday, May 28, 2024 at 9:44 PM"
 }
