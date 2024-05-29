@@ -2332,10 +2332,16 @@
             "name": "Krushna Dande",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/3ca5708a-4d59-4574-a53a-49b15372923d",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
+                    "badgeID": "9231854",
+                    "badgeDate": 1716940800000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
-            "trackTwo": 0,
+            "trackTwo": 1,
             "trackThree": 0
         },
         {
@@ -5891,5 +5897,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 29, 2024 at 3:43 PM"
+    "time": "Wednesday, May 29, 2024 at 4:41 PM"
 }
