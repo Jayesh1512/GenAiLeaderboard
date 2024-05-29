@@ -3378,6 +3378,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia May 2024 Week 1",
+                    "badgeID": "9238325",
+                    "badgeDate": 1716940800000
+                },
+                {
                     "badgeName": "Level 2: Data with BigQuery",
                     "badgeID": "9235684",
                     "badgeDate": 1716940800000
@@ -5912,5 +5917,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 29, 2024 at 9:44 PM"
+    "time": "Wednesday, May 29, 2024 at 10:44 PM"
 }
