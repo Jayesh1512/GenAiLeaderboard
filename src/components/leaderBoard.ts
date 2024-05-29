@@ -840,7 +840,7 @@ export const leaderBoardData = [
         "rank": 85
     },
     {
-        "name": "Yash sharma",
+        "name": "Ariyaan Khurram",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -850,7 +850,7 @@ export const leaderBoardData = [
         "rank": 86
     },
     {
-        "name": "Ariyaan Khurram",
+        "name": "Sanket Suryawanshi",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -860,7 +860,7 @@ export const leaderBoardData = [
         "rank": 87
     },
     {
-        "name": "Sanket Suryawanshi",
+        "name": "Aryan Paradkar",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -870,7 +870,7 @@ export const leaderBoardData = [
         "rank": 88
     },
     {
-        "name": "Aryan Paradkar",
+        "name": "Atharva Bomle",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -880,7 +880,7 @@ export const leaderBoardData = [
         "rank": 89
     },
     {
-        "name": "Atharva Bomle",
+        "name": "Kalash Jaiswal",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -890,7 +890,7 @@ export const leaderBoardData = [
         "rank": 90
     },
     {
-        "name": "Kalash Jaiswal",
+        "name": "Tejas Singh",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -900,7 +900,7 @@ export const leaderBoardData = [
         "rank": 91
     },
     {
-        "name": "Tejas Singh",
+        "name": "Anish Anand Pujari",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -910,7 +910,7 @@ export const leaderBoardData = [
         "rank": 92
     },
     {
-        "name": "Anish Anand Pujari",
+        "name": "Shreya Raut",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -920,7 +920,7 @@ export const leaderBoardData = [
         "rank": 93
     },
     {
-        "name": "Shreya Raut",
+        "name": "sanika raut",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -930,13 +930,13 @@ export const leaderBoardData = [
         "rank": 94
     },
     {
-        "name": "sanika raut",
+        "name": "Yash sharma",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1716854400000,
+        "latestSkill": 1716940800000,
         "rank": 95
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Wednesday, May 29, 2024 at 11:44 PM"
+export const updateTime =  "Thursday, May 30, 2024 at 12:41 AM"
