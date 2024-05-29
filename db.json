@@ -1896,15 +1896,25 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9228653",
+                    "badgeDate": 1716940800000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9228487",
+                    "badgeDate": 1716940800000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9215727",
                     "badgeDate": 1716854400000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
             "trackTwo": 0,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Saksham wakodikar",
@@ -5876,5 +5886,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 29, 2024 at 11:45 AM"
+    "time": "Wednesday, May 29, 2024 at 12:42 PM"
 }
