@@ -426,6 +426,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Derive Insights from BigQuery Data",
+                    "badgeID": "9240900",
+                    "badgeDate": 1716940800000
+                },
+                {
                     "badgeName": "Manage Data Models in Looker",
                     "badgeID": "9240231",
                     "badgeDate": 1716940800000
@@ -5922,5 +5927,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 30, 2024 at 12:41 AM"
+    "time": "Thursday, May 30, 2024 at 1:43 AM"
 }
