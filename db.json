@@ -2334,15 +2334,25 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9233170",
+                    "badgeDate": 1716940800000
+                },
+                {
+                    "badgeName": "Level 3: GenAIus Registries",
+                    "badgeID": "9233113",
+                    "badgeDate": 1716940800000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9231854",
                     "badgeDate": 1716940800000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 0,
             "trackTwo": 1,
-            "trackThree": 0
+            "trackThree": 1
         },
         {
             "name": "Tejas Gangane",
@@ -5897,5 +5907,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, May 29, 2024 at 4:41 PM"
+    "time": "Wednesday, May 29, 2024 at 5:49 PM"
 }
