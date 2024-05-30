@@ -426,6 +426,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Health Tech",
+                    "badgeID": "9257721",
+                    "badgeDate": 1717027200000
+                },
+                {
                     "badgeName": "Derive Insights from BigQuery Data",
                     "badgeID": "9240900",
                     "badgeDate": 1716940800000
@@ -5953,5 +5958,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 31, 2024 at 12:42 AM"
+    "time": "Friday, May 31, 2024 at 1:44 AM"
 }
