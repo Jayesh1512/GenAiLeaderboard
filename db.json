@@ -3994,6 +3994,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia May 2024 Week 4",
+                    "badgeID": "9255988",
+                    "badgeDate": 1717027200000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8852865",
                     "badgeDate": 1714694400000
@@ -5938,5 +5943,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 30, 2024 at 10:41 PM"
+    "time": "Thursday, May 30, 2024 at 11:47 PM"
 }
