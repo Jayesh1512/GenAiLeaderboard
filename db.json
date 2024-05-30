@@ -1412,6 +1412,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Deploy Kubernetes Applications on Google Cloud",
+                    "badgeID": "9256640",
+                    "badgeDate": 1717027200000
+                },
+                {
                     "badgeName": "Get Started with API Gateway",
                     "badgeID": "9255121",
                     "badgeDate": 1717027200000
@@ -3994,6 +3999,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia May 2024 Week 3",
+                    "badgeID": "9256802",
+                    "badgeDate": 1717027200000
+                },
+                {
                     "badgeName": "The Arcade Trivia May 2024 Week 4",
                     "badgeID": "9255988",
                     "badgeDate": 1717027200000
@@ -5943,5 +5953,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 30, 2024 at 11:47 PM"
+    "time": "Friday, May 31, 2024 at 12:42 AM"
 }
