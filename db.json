@@ -1412,6 +1412,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Get Started with API Gateway",
+                    "badgeID": "9255121",
+                    "badgeDate": 1717027200000
+                },
+                {
                     "badgeName": "App Building with AppSheet",
                     "badgeID": "9201906",
                     "badgeDate": 1716768000000
@@ -2203,9 +2208,15 @@
             "name": "Rishika Kumar",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/3079f591-bc05-46a4-ac6a-28be61e985f6",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Prompt Design in Vertex AI",
+                    "badgeID": "9254726",
+                    "badgeDate": 1717027200000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0,
             "trackThree": 0
         },
@@ -5927,5 +5938,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, May 30, 2024 at 9:44 PM"
+    "time": "Thursday, May 30, 2024 at 10:41 PM"
 }
