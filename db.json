@@ -3333,6 +3333,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 1: Security and Compliance",
+                    "badgeID": "9261513",
+                    "badgeDate": 1717113600000
+                },
+                {
                     "badgeName": "The Arcade Health Tech",
                     "badgeID": "9231671",
                     "badgeDate": 1716940800000
@@ -5958,5 +5963,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 31, 2024 at 10:44 AM"
+    "time": "Friday, May 31, 2024 at 11:45 AM"
 }
