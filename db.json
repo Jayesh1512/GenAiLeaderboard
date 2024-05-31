@@ -3311,7 +3311,13 @@
             "name": "Utkarsh Gaur",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/89d6ea96-07a2-4502-96fe-1b975fed9253",
             "isEnrollStatusGood": "All Good",
-            "badges": [],
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9262485",
+                    "badgeDate": 1717113600000
+                }
+            ],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0,
@@ -5963,5 +5969,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 31, 2024 at 11:45 AM"
+    "time": "Friday, May 31, 2024 at 12:42 PM"
 }
