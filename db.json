@@ -1417,6 +1417,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Streaming Analytics into BigQuery",
+                    "badgeID": "9268076",
+                    "badgeDate": 1717113600000
+                },
+                {
                     "badgeName": "Deploy Kubernetes Applications on Google Cloud",
                     "badgeID": "9256640",
                     "badgeDate": 1717027200000
@@ -5974,5 +5979,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 31, 2024 at 4:42 PM"
+    "time": "Friday, May 31, 2024 at 5:49 PM"
 }
