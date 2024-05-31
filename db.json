@@ -1422,6 +1422,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Get Started with Pub/Sub",
+                    "badgeID": "9273913",
+                    "badgeDate": 1717113600000
+                },
+                {
                     "badgeName": "Streaming Analytics into BigQuery",
                     "badgeID": "9268076",
                     "badgeDate": 1717113600000
@@ -5999,5 +6004,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 31, 2024 at 10:42 PM"
+    "time": "Friday, May 31, 2024 at 11:45 PM"
 }
