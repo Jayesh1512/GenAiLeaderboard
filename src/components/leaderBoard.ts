@@ -910,7 +910,7 @@ export const leaderBoardData = [
         "rank": 92
     },
     {
-        "name": "Yash sharma",
+        "name": "Zeenat Parvez Sheikh",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -920,13 +920,13 @@ export const leaderBoardData = [
         "rank": 93
     },
     {
-        "name": "Zeenat Parvez Sheikh",
+        "name": "Yash sharma",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1717027200000,
+        "latestSkill": 1717113600000,
         "rank": 94
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, May 31, 2024 at 9:44 PM"
+export const updateTime =  "Friday, May 31, 2024 at 10:42 PM"
