@@ -3425,6 +3425,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia May 2024 Week 2",
+                    "badgeID": "9269356",
+                    "badgeDate": 1717113600000
+                },
+                {
                     "badgeName": "The Arcade Health Tech",
                     "badgeID": "9264357",
                     "badgeDate": 1717113600000
@@ -5979,5 +5984,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Friday, May 31, 2024 at 5:49 PM"
+    "time": "Friday, May 31, 2024 at 6:43 PM"
 }
