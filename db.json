@@ -5695,6 +5695,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia June 2024 Week 1",
+                    "badgeID": "9309979",
+                    "badgeDate": 1717372800000
+                },
+                {
                     "badgeName": "The Arcade Trivia May 2024 Week 4",
                     "badgeID": "9186733",
                     "badgeDate": 1716681600000
@@ -6039,5 +6044,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Tuesday, June 4, 2024 at 1:43 AM"
+    "time": "Tuesday, June 4, 2024 at 2:43 AM"
 }
