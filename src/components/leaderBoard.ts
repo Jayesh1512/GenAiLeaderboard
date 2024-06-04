@@ -940,7 +940,7 @@ export const leaderBoardData = [
         "rank": 95
     },
     {
-        "name": "Aashi Yashpal Kohad",
+        "name": "Dev Hotchandani",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
@@ -950,13 +950,13 @@ export const leaderBoardData = [
         "rank": 96
     },
     {
-        "name": "Dev Hotchandani",
+        "name": "Aashi Yashpal Kohad",
         "skills": 3,
         "trackOne": 1,
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1717372800000,
+        "latestSkill": 1717459200000,
         "rank": 97
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Tuesday, June 4, 2024 at 8:43 PM"
+export const updateTime =  "Tuesday, June 4, 2024 at 9:45 PM"
