@@ -426,6 +426,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 1: Cloud Networking",
+                    "badgeID": "9323166",
+                    "badgeDate": 1717459200000
+                },
+                {
                     "badgeName": "The Arcade Trivia May 2024 Week 1",
                     "badgeID": "9273682",
                     "badgeDate": 1717113600000
@@ -6049,5 +6054,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, June 5, 2024 at 12:41 AM"
+    "time": "Wednesday, June 5, 2024 at 1:42 AM"
 }
