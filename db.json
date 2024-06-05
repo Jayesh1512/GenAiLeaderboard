@@ -426,6 +426,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Networking Fundamentals on Google Cloud",
+                    "badgeID": "9335154",
+                    "badgeDate": 1717545600000
+                },
+                {
                     "badgeName": "Implement Cloud Security Fundamentals on Google Cloud",
                     "badgeID": "9333867",
                     "badgeDate": 1717545600000
@@ -6074,5 +6079,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, June 5, 2024 at 10:42 PM"
+    "time": "Wednesday, June 5, 2024 at 11:45 PM"
 }
