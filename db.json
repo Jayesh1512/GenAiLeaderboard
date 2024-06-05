@@ -426,6 +426,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Build a Secure Google Cloud Network",
+                    "badgeID": "9335768",
+                    "badgeDate": 1717545600000
+                },
+                {
                     "badgeName": "Networking Fundamentals on Google Cloud",
                     "badgeID": "9335154",
                     "badgeDate": 1717545600000
@@ -1436,6 +1441,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/aecbfae4-1ce2-4d32-9f7f-5035ca544afe",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "App Engine: 3 Ways",
+                    "badgeID": "9335853",
+                    "badgeDate": 1717545600000
+                },
                 {
                     "badgeName": "Cloud Functions: 3 Ways",
                     "badgeID": "9334407",
@@ -6079,5 +6089,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, June 5, 2024 at 11:45 PM"
+    "time": "Thursday, June 6, 2024 at 12:41 AM"
 }
