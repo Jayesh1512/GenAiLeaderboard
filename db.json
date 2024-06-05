@@ -426,6 +426,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Implement Cloud Security Fundamentals on Google Cloud",
+                    "badgeID": "9333867",
+                    "badgeDate": 1717545600000
+                },
+                {
                     "badgeName": "Level 1: Cloud Networking",
                     "badgeID": "9323166",
                     "badgeDate": 1717459200000
@@ -1426,6 +1431,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/aecbfae4-1ce2-4d32-9f7f-5035ca544afe",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "Get Started with Eventarc",
+                    "badgeID": "9334182",
+                    "badgeDate": 1717545600000
+                },
                 {
                     "badgeName": "Level 2: Develop and Deploy",
                     "badgeID": "9333179",
@@ -6059,5 +6069,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, June 5, 2024 at 8:42 PM"
+    "time": "Wednesday, June 5, 2024 at 9:45 PM"
 }
