@@ -1432,6 +1432,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Cloud Functions: 3 Ways",
+                    "badgeID": "9334407",
+                    "badgeDate": 1717545600000
+                },
+                {
                     "badgeName": "Get Started with Eventarc",
                     "badgeID": "9334182",
                     "badgeDate": 1717545600000
@@ -6069,5 +6074,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Wednesday, June 5, 2024 at 9:45 PM"
+    "time": "Wednesday, June 5, 2024 at 10:42 PM"
 }
