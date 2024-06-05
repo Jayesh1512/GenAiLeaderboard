@@ -426,6 +426,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Networking in Google Cloud: Hands-On Practice",
+                    "badgeID": "9336681",
+                    "badgeDate": 1717545600000
+                },
+                {
                     "badgeName": "Build a Secure Google Cloud Network",
                     "badgeID": "9335768",
                     "badgeDate": 1717545600000
@@ -6089,5 +6094,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, June 6, 2024 at 12:41 AM"
+    "time": "Thursday, June 6, 2024 at 1:44 AM"
 }
