@@ -5750,6 +5750,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Travels",
+                    "badgeID": "9342664",
+                    "badgeDate": 1717632000000
+                },
+                {
                     "badgeName": "The Arcade Trivia June 2024 Week 1",
                     "badgeID": "9309979",
                     "badgeDate": 1717372800000
@@ -6099,5 +6104,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, June 6, 2024 at 1:45 PM"
+    "time": "Thursday, June 6, 2024 at 2:43 PM"
 }
