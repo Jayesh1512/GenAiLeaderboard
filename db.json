@@ -1447,6 +1447,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Protect Sensitive Data with Data Loss Prevention",
+                    "badgeID": "9348026",
+                    "badgeDate": 1717632000000
+                },
+                {
                     "badgeName": "Create a Secure Data Lake on Cloud Storage",
                     "badgeID": "9343122",
                     "badgeDate": 1717632000000
@@ -6109,5 +6114,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, June 6, 2024 at 7:43 PM"
+    "time": "Thursday, June 6, 2024 at 8:43 PM"
 }
