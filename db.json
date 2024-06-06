@@ -1447,6 +1447,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Create a Secure Data Lake on Cloud Storage",
+                    "badgeID": "9343122",
+                    "badgeDate": 1717632000000
+                },
+                {
                     "badgeName": "App Engine: 3 Ways",
                     "badgeID": "9335853",
                     "badgeDate": 1717545600000
@@ -6104,5 +6109,5 @@
             "trackThree": 0
         }
     ],
-    "time": "Thursday, June 6, 2024 at 2:43 PM"
+    "time": "Thursday, June 6, 2024 at 3:43 PM"
 }

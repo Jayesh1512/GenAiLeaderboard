@@ -936,7 +936,7 @@ export const leaderBoardData = [
         "trackTwo": 1,
         "trackThree": 1,
         "color": "green",
-        "latestSkill": 1717545600000,
+        "latestSkill": 1717632000000,
         "rank": 95
     },
     {
@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Thursday, June 6, 2024 at 2:43 PM"
+export const updateTime =  "Thursday, June 6, 2024 at 3:43 PM"
