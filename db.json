@@ -450,6 +450,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia June 2024 Week 1",
+                    "badgeID": "9364870",
+                    "badgeDate": 1717718400000
+                },
+                {
                     "badgeName": "Networking in Google Cloud: Hands-On Practice",
                     "badgeID": "9336681",
                     "badgeDate": 1717545600000
@@ -6412,5 +6417,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Friday, June 7, 2024 at 11:46 PM"
+    "time": "Saturday, June 8, 2024 at 12:41 AM"
 }
