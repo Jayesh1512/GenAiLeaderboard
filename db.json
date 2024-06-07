@@ -1510,6 +1510,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Networking Fundamentals on Google Cloud",
+                    "badgeID": "9363017",
+                    "badgeDate": 1717718400000
+                },
+                {
+                    "badgeName": "Analyze Speech and Language with Google APIs",
+                    "badgeID": "9362729",
+                    "badgeDate": 1717718400000
+                },
+                {
                     "badgeName": "The Basics of Google Cloud Compute",
                     "badgeID": "9362241",
                     "badgeDate": 1717718400000
@@ -6022,6 +6032,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Networking Fundamentals on Google Cloud",
+                    "badgeID": "9362498",
+                    "badgeDate": 1717718400000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Travels",
                     "badgeID": "9342664",
                     "badgeDate": 1717632000000
@@ -6392,5 +6407,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Friday, June 7, 2024 at 8:43 PM"
+    "time": "Friday, June 7, 2024 at 9:44 PM"
 }
