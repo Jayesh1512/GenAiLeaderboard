@@ -1510,6 +1510,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop Serverless Apps with Firebase",
+                    "badgeID": "9363424",
+                    "badgeDate": 1717718400000
+                },
+                {
                     "badgeName": "Networking Fundamentals on Google Cloud",
                     "badgeID": "9363017",
                     "badgeDate": 1717718400000
@@ -6407,5 +6412,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Friday, June 7, 2024 at 9:44 PM"
+    "time": "Friday, June 7, 2024 at 10:42 PM"
 }
