@@ -1510,6 +1510,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Basics of Google Cloud Compute",
+                    "badgeID": "9362241",
+                    "badgeDate": 1717718400000
+                },
+                {
                     "badgeName": "Protect Sensitive Data with Data Loss Prevention",
                     "badgeID": "9348026",
                     "badgeDate": 1717632000000
@@ -6387,5 +6392,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Friday, June 7, 2024 at 7:44 PM"
+    "time": "Friday, June 7, 2024 at 8:43 PM"
 }
