@@ -28,7 +28,7 @@ export const init = () => {
             trackTwo: profile[i]["trackTwo"],
             trackThree: profile[i]["trackThree"],
             color,
-            latestSkill: profile[i]["badges"]?.[0] ? profile[i]["badges"][0]["badgeDate"] : null,
+            latestSkill: profile[i]["latestCompletionDate"],
             rank: 0
         };
         leaderBoard.push(data);
