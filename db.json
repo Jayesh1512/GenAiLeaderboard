@@ -6047,6 +6047,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 2: Develop and Deploy",
+                    "badgeID": "9374661",
+                    "badgeDate": 1717804800000
+                },
+                {
                     "badgeName": "Manage Kubernetes in Google Cloud",
                     "badgeID": "9372578",
                     "badgeDate": 1717804800000
@@ -6427,5 +6432,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Saturday, June 8, 2024 at 9:45 PM"
+    "time": "Saturday, June 8, 2024 at 10:41 PM"
 }
