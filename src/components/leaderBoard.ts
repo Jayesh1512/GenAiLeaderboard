@@ -2731,4 +2731,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Saturday, June 8, 2024 at 11:45 AM"
+export const updateTime =  "Saturday, June 8, 2024 at 12:42 PM"
