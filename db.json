@@ -6047,6 +6047,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 1: Cloud Networking",
+                    "badgeID": "9377255",
+                    "badgeDate": 1717804800000
+                },
+                {
                     "badgeName": "Level 2: Develop and Deploy",
                     "badgeID": "9374661",
                     "badgeDate": 1717804800000
@@ -6432,5 +6437,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Sunday, June 9, 2024 at 3:41 AM"
+    "time": "Sunday, June 9, 2024 at 4:42 AM"
 }
