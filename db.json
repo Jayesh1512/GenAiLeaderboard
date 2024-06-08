@@ -6047,6 +6047,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Manage Kubernetes in Google Cloud",
+                    "badgeID": "9372578",
+                    "badgeDate": 1717804800000
+                },
+                {
                     "badgeName": "Networking Fundamentals on Google Cloud",
                     "badgeID": "9362498",
                     "badgeDate": 1717718400000
@@ -6422,5 +6427,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Saturday, June 8, 2024 at 6:42 PM"
+    "time": "Saturday, June 8, 2024 at 7:42 PM"
 }
