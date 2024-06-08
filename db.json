@@ -2992,6 +2992,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Image Generation",
+                    "badgeID": "9368279",
+                    "badgeDate": 1717804800000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "9183909",
                     "badgeDate": 1716681600000
@@ -6417,5 +6422,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Saturday, June 8, 2024 at 10:42 AM"
+    "time": "Saturday, June 8, 2024 at 11:45 AM"
 }
