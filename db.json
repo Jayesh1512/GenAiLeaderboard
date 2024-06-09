@@ -1515,6 +1515,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Integrate BigQuery Data and Google Workspace using Apps Script",
+                    "badgeID": "9385282",
+                    "badgeDate": 1717891200000
+                },
+                {
                     "badgeName": "Share Data Using Google Data Cloud",
                     "badgeID": "9384233",
                     "badgeDate": 1717891200000
@@ -6452,5 +6457,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Sunday, June 9, 2024 at 9:43 PM"
+    "time": "Sunday, June 9, 2024 at 10:44 PM"
 }
