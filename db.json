@@ -2421,6 +2421,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 3: GenAIus Travels",
+                    "badgeID": "9377807",
+                    "badgeDate": 1717804800000
+                },
+                {
                     "badgeName": "Develop GenAI Apps with Gemini and Streamlit",
                     "badgeID": "9289420",
                     "badgeDate": 1717286400000
@@ -6437,5 +6442,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Sunday, June 9, 2024 at 6:17 AM"
+    "time": "Sunday, June 9, 2024 at 7:34 AM"
 }
