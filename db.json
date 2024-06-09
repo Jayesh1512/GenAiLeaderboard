@@ -1515,6 +1515,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Share Data Using Google Data Cloud",
+                    "badgeID": "9384233",
+                    "badgeDate": 1717891200000
+                },
+                {
                     "badgeName": "Develop Serverless Apps with Firebase",
                     "badgeID": "9363424",
                     "badgeDate": 1717718400000
@@ -6447,5 +6452,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Sunday, June 9, 2024 at 7:42 PM"
+    "time": "Sunday, June 9, 2024 at 8:42 PM"
 }
