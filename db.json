@@ -2421,6 +2421,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "9377922",
+                    "badgeDate": 1717804800000
+                },
+                {
                     "badgeName": "Level 3: GenAIus Travels",
                     "badgeID": "9377807",
                     "badgeDate": 1717804800000
@@ -6442,5 +6447,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Sunday, June 9, 2024 at 7:34 AM"
+    "time": "Sunday, June 9, 2024 at 8:43 AM"
 }
