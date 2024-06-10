@@ -450,6 +450,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Level 2: Develop and Deploy",
+                    "badgeID": "9399202",
+                    "badgeDate": 1717977600000
+                },
+                {
                     "badgeName": "The Arcade Trivia June 2024 Week 1",
                     "badgeID": "9364870",
                     "badgeDate": 1717718400000
@@ -6482,5 +6487,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Monday, June 10, 2024 at 11:45 PM"
+    "time": "Tuesday, June 11, 2024 at 12:41 AM"
 }
