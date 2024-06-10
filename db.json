@@ -450,6 +450,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Develop Serverless Apps with Firebase",
+                    "badgeID": "9400029",
+                    "badgeDate": 1717977600000
+                },
+                {
                     "badgeName": "Level 2: Develop and Deploy",
                     "badgeID": "9399202",
                     "badgeDate": 1717977600000
@@ -6487,5 +6492,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Tuesday, June 11, 2024 at 12:41 AM"
+    "time": "Tuesday, June 11, 2024 at 1:42 AM"
 }
