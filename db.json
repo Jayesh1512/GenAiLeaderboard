@@ -632,6 +632,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia June 2024 Week 1",
+                    "badgeID": "9388237",
+                    "badgeDate": 1717891200000
+                },
+                {
                     "badgeName": "Prompt Design in Vertex AI",
                     "badgeID": "8987963",
                     "badgeDate": 1715472000000
@@ -6457,5 +6462,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Monday, June 10, 2024 at 6:16 AM"
+    "time": "Monday, June 10, 2024 at 7:31 AM"
 }
