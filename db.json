@@ -3340,6 +3340,16 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Introduction to Google Workspace Administration",
+                    "badgeID": "9392056",
+                    "badgeDate": 1717977600000
+                },
+                {
+                    "badgeName": "Preparing for Your Google Workspace Administrator Journey",
+                    "badgeID": "9391686",
+                    "badgeDate": 1717977600000
+                },
+                {
                     "badgeName": "Google Security Operations - Fundamentals",
                     "badgeID": "9168232",
                     "badgeDate": 1716595200000
@@ -6462,5 +6472,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Monday, June 10, 2024 at 1:45 PM"
+    "time": "Monday, June 10, 2024 at 2:45 PM"
 }
