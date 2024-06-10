@@ -1520,6 +1520,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "The Arcade Trivia June 2024 Week 2",
+                    "badgeID": "9396032",
+                    "badgeDate": 1717977600000
+                },
+                {
                     "badgeName": "Integrate BigQuery Data and Google Workspace using Apps Script",
                     "badgeID": "9385282",
                     "badgeDate": 1717891200000
@@ -6477,5 +6482,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Monday, June 10, 2024 at 6:46 PM"
+    "time": "Monday, June 10, 2024 at 7:43 PM"
 }
