@@ -3340,6 +3340,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Managing Google Workspace",
+                    "badgeID": "9392793",
+                    "badgeDate": 1717977600000
+                },
+                {
                     "badgeName": "Introduction to Google Workspace Administration",
                     "badgeID": "9392056",
                     "badgeDate": 1717977600000
@@ -6472,5 +6477,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Monday, June 10, 2024 at 2:45 PM"
+    "time": "Monday, June 10, 2024 at 3:45 PM"
 }
