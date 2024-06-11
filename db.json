@@ -450,6 +450,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Cloud Architecture: Design, Implement, and Manage",
+                    "badgeID": "9408438",
+                    "badgeDate": 1718064000000
+                },
+                {
                     "badgeName": "Develop Serverless Apps with Firebase",
                     "badgeID": "9400029",
                     "badgeDate": 1717977600000
@@ -3354,6 +3359,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/38863f26-4f63-43f1-a8a8-a798f5ae6636",
             "isEnrollStatusGood": "All Good",
             "badges": [
+                {
+                    "badgeName": "Google Workspace Security",
+                    "badgeID": "9408655",
+                    "badgeDate": 1718064000000
+                },
                 {
                     "badgeName": "Managing Google Workspace",
                     "badgeID": "9392793",
@@ -6492,5 +6502,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Tuesday, June 11, 2024 at 4:43 PM"
+    "time": "Tuesday, June 11, 2024 at 5:50 PM"
 }
