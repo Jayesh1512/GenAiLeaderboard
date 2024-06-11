@@ -3360,6 +3360,11 @@
             "isEnrollStatusGood": "All Good",
             "badges": [
                 {
+                    "badgeName": "Google Workspace Mail Management",
+                    "badgeID": "9408960",
+                    "badgeDate": 1718064000000
+                },
+                {
                     "badgeName": "Google Workspace Security",
                     "badgeID": "9408655",
                     "badgeDate": 1718064000000
@@ -6502,5 +6507,5 @@
             "latestCompletionDate": null
         }
     ],
-    "time": "Tuesday, June 11, 2024 at 5:50 PM"
+    "time": "Tuesday, June 11, 2024 at 6:45 PM"
 }
